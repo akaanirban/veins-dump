@@ -1,0 +1,7 @@
+<map id="NistErrorRate::getQpskBer" name="NistErrorRate::getQpskBer">
+<area shape="rect" id="node2" href="$class_nist_error_rate.html#a5814e5bd473a3127bf659d82edfd97fa" title="Return BER of QPSK at the given SNR after applying FEC. " alt="" coords="233,5,434,32"/>
+<area shape="rect" id="node3" href="$class_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="NistErrorRate::getChunkSuccessRate" alt="" coords="483,5,728,32"/>
+<area shape="rect" id="node4" href="$class_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="776,5,949,32"/>
+<area shape="rect" id="node5" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="997,5,1211,32"/>
+<area shape="rect" id="node6" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="1259,5,1482,32"/>
+</map>

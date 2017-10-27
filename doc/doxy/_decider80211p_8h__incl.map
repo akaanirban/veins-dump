@@ -1,0 +1,22 @@
+<map id="Decider80211p.h" name="Decider80211p.h">
+<area shape="rect" id="node2" href="$_base_decider_8h.html" title="veins/base/phyLayer\l/BaseDecider.h" alt="" coords="1114,262,1256,303"/>
+<area shape="rect" id="node13" href="$_consts80211p_8h.html" title="veins/modules/utility\l/Consts80211p.h" alt="" coords="1007,81,1148,122"/>
+<area shape="rect" id="node15" href="$_mac80211p_to_phy11p_interface_8h.html" title="veins/modules/mac/ieee80211p\l/Mac80211pToPhy11pInterface.h" alt="" coords="767,81,981,122"/>
+<area shape="rect" id="node35" href="$_decider80211p_to_phy80211p_interface_8h.html" title="veins/modules/phy/Decider80211p\lToPhy80211pInterface.h" alt="" coords="1223,81,1445,122"/>
+<area shape="rect" id="node3" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="926,632,1119,659"/>
+<area shape="rect" id="node6" href="$_decider_8h.html" title="veins/base/phyLayer\l/Decider.h" alt="" coords="1301,353,1443,394"/>
+<area shape="rect" id="node5" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="911,715,1133,741"/>
+<area shape="rect" id="node7" href="$_decider_to_phy_interface_8h.html" title="veins/base/phyLayer\l/DeciderToPhyInterface.h" alt="" coords="1620,443,1791,485"/>
+<area shape="rect" id="node10" href="$_channel_sense_request__m_8h.html" title="veins/base/messages\l/ChannelSenseRequest_m.h" alt="" coords="1407,443,1596,485"/>
+<area shape="rect" id="node11" href="$_channel_state_8h.html" title="veins/base/phyLayer\l/ChannelState.h" alt="" coords="951,534,1093,575"/>
+<area shape="rect" id="node16" href="$_mac_to_phy_interface_8h.html" title="veins/base/phyLayer\l/MacToPhyInterface.h" alt="" coords="799,171,949,213"/>
+<area shape="rect" id="node17" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="479,262,621,303"/>
+<area shape="rect" id="node30" href="$_phy_utils_8h.html" title="veins/base/phyLayer\l/PhyUtils.h" alt="" coords="803,262,945,303"/>
+<area shape="rect" id="node18" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="378,353,520,394"/>
+<area shape="rect" id="node19" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="319,534,461,575"/>
+<area shape="rect" id="node29" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="429,443,571,485"/>
+<area shape="rect" id="node26" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="42,625,184,666"/>
+<area shape="rect" id="node31" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="749,353,891,394"/>
+<area shape="rect" id="node32" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="1220,451,1383,477"/>
+<area shape="rect" id="node33" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="1271,541,1449,568"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WaveShortMessage::getUserPriority" name="WaveShortMessage::getUserPriority">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="254,5,437,32"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#ac93bf319ea2065fd7e8c041697e49919" title="Handle messages from upper layer. " alt="" coords="248,56,443,83"/>
+</map>

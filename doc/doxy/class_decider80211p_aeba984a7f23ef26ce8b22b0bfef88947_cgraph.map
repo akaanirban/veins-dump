@@ -1,0 +1,24 @@
+<map id="Decider80211p::cca" name="Decider80211p::cca">
+<area shape="rect" id="node2" href="$class_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="199,13,393,40"/>
+<area shape="rect" id="node4" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="201,68,391,95"/>
+<area shape="rect" id="node7" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="466,335,625,361"/>
+<area shape="rect" id="node8" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="205,119,387,145"/>
+<area shape="rect" id="node9" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="207,372,385,399"/>
+<area shape="rect" id="node10" href="$class_mapping_utils.html#a0d8bf65254d099c87948c1c300986696" title="MappingUtils::add" alt="" coords="233,423,359,449"/>
+<area shape="rect" id="node12" href="$class_decider_to_phy_interface.html#a2c55926187883df5bc322c947d317534" title="Returns a Mapping which defines the thermal noise in the passed time frame (in mW). " alt="" coords="218,474,374,515"/>
+<area shape="rect" id="node13" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="192,220,400,247"/>
+<area shape="rect" id="node15" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="229,540,363,567"/>
+<area shape="rect" id="node16" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="217,169,375,196"/>
+<area shape="rect" id="node14" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="471,271,620,297"/>
+<area shape="rect" id="node17" href="$class_mapping_utils.html#aec04c2f94a70e276ad22fb63ee9969ea" title="Iterates over the passed mapping and returns value at the key entry with the smallest value..." alt="" coords="222,591,370,617"/>
+<area shape="rect" id="node23" href="$class_mapping_utils.html#afa2d78cdfa899918c90a508ddab0ea5f" title="The default value for findMax() functions if it does not find a maximum element. " alt="" coords="199,641,393,668"/>
+<area shape="rect" id="node3" href="$class_decider_to_phy_interface.html#aa7af5edbbc50269a93c10bd682aa79f6" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="467,5,623,46"/>
+<area shape="rect" id="node5" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="448,71,643,97"/>
+<area shape="rect" id="node6" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="487,145,604,172"/>
+<area shape="rect" id="node11" href="$class_mapping_utils.html#a45c56f1ea72b2f8b278d1016ac6228df" title="MappingUtils::applyElement\lWiseOperator" alt="" coords="453,401,638,442"/>
+<area shape="rect" id="node18" href="$class_const_mapping.html#a5ff3a15fe6d536fa7a26a3fe1ff1b274" title="Returns a pointer of a new Iterator which is able to iterate over this Mapping. " alt="" coords="453,466,638,507"/>
+<area shape="rect" id="node19" href="$class_const_mapping_iterator.html#a4a6348a453418da95978e570fec046fc" title="Returns true if the current position of the iterator is in range of the function. ..." alt="" coords="472,531,619,573"/>
+<area shape="rect" id="node20" href="$class_const_mapping_iterator.html#ad4419c259e747867f003d07d62d4259f" title="Returns the value of the Mapping at the current position. " alt="" coords="472,597,619,638"/>
+<area shape="rect" id="node21" href="$class_const_mapping_iterator.html#ad4bac7233c154b7086c6124d2e21be49" title="Returns true if the iterator has a next value it can iterate to on a call to &quot;next()&quot;. " alt="" coords="472,662,619,703"/>
+<area shape="rect" id="node22" href="$class_const_mapping_iterator.html#afdafa6870cd19b3d35674a7bc777585d" title="Iterates to the next position of the Mapping. " alt="" coords="472,727,619,769"/>
+</map>

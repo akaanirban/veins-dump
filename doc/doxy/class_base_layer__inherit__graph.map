@@ -1,0 +1,12 @@
+<map id="BaseLayer" name="BaseLayer">
+<area shape="rect" id="node6" href="$class_base_appl_layer.html" title="Base class for the application layer. " alt="" coords="295,304,405,331"/>
+<area shape="rect" id="node12" href="$class_base_mac_layer.html" title="A very simple MAC module template which provides de&#45; and encapsulation of messages using the standard..." alt="" coords="433,304,543,331"/>
+<area shape="rect" id="node2" href="$class_veins_1_1_battery_access.html" title="Veins::BatteryAccess" alt="" coords="343,155,492,181"/>
+<area shape="rect" id="node3" href="$class_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="370,80,464,107"/>
+<area shape="rect" id="node7" href="$class_base_wave_appl_layer.html" title="WAVE application layer base class. " alt="" coords="109,379,253,405"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_test_app.html" title="Veins::TraCITestApp" alt="" coords="278,379,423,405"/>
+<area shape="rect" id="node8" href="$class_my_veins_app.html" title="This is a stub for a typical Veins application layer. " alt="" coords="5,453,101,480"/>
+<area shape="rect" id="node9" href="$class_tra_c_i_demo11p.html" title="A tutorial demo for TraCI. " alt="" coords="126,453,236,480"/>
+<area shape="rect" id="node10" href="$class_tra_c_i_demo_r_s_u11p.html" title="Small RSU Demo using 11p. " alt="" coords="261,453,400,480"/>
+<area shape="rect" id="node13" href="$class_mac1609__4.html" title="Manages timeslots for CCH and SCH listening and sending. " alt="" coords="447,379,536,405"/>
+</map>

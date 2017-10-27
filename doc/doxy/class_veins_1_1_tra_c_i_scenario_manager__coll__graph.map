@@ -1,0 +1,9 @@
+<map id="Veins::TraCIScenarioManager" name="Veins::TraCIScenarioManager">
+<area shape="rect" id="node3" href="$class_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="609,73,729,100"/>
+<area shape="rect" id="node9" href="$class_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="585,133,753,160"/>
+<area shape="rect" id="node4" href="$class_coord.html" title="Class for storing 3D coordinates. " alt="" coords="311,107,369,133"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_command_interface.html" title="Veins::TraCICommandInterface" alt="" coords="566,200,773,227"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_connection.html" title="Veins::TraCIConnection" alt="" coords="259,252,421,279"/>
+<area shape="rect" id="node8" href="$struct_veins_1_1_tra_c_i_coord.html" title="Coord equivalent for storing TraCI coordinates. " alt="" coords="5,252,136,279"/>
+<area shape="rect" id="node10" href="$class_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid. " alt="" coords="256,171,424,213"/>
+</map>

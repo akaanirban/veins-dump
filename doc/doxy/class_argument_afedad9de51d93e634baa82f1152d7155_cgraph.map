@@ -1,0 +1,4 @@
+<map id="Argument::operator==" name="Argument::operator==">
+<area shape="rect" id="node2" href="$class_argument.html#ac983761168238481be2bc9d9d180abe5" title="Compares this Argument with the passed Argument in the dimensions of the passed DimensionsSet. " alt="" coords="203,5,339,32"/>
+<area shape="rect" id="node3" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="387,5,504,32"/>
+</map>

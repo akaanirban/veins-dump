@@ -1,0 +1,4 @@
+<map id="WaveShortMessage::getWsmData" name="WaveShortMessage::getWsmData">
+<area shape="rect" id="node2" href="$class_tra_c_i_demo11p.html#ab1c44fc08f042a94397cfd041c61ff70" title="this function is called when a custom WSM is received, taylor code " alt="" coords="280,5,456,32"/>
+<area shape="rect" id="node3" href="$class_tra_c_i_demo11p.html#a60a8abbb6f86cfbeabef68b1e415721e" title="this function is called upon receiving a WaveShortMessage " alt="" coords="285,56,451,83"/>
+</map>

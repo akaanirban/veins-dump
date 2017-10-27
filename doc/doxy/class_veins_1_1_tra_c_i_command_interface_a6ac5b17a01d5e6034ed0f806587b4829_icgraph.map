@@ -1,0 +1,8 @@
+<map id="Veins::TraCICommandInterface::addVehicle" name="Veins::TraCICommandInterface::addVehicle">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="281,5,439,46"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a2950402455646afe8ed6c36254cc9fa3" title="tries to add all vehicles in the vehicle queue to SUMO; " alt="" coords="261,70,459,111"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="533,5,678,46"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a84ebe9fb50441189bd39f949f2593115" title="read and execute all commands for the next timestep " alt="" coords="507,70,704,111"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="752,70,949,111"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="997,70,1195,111"/>
+</map>

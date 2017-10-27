@@ -1,0 +1,21 @@
+<map id="SimpleObstacleShadowing.h" name="SimpleObstacleShadowing.h">
+<area shape="rect" id="node2" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="5,262,147,303"/>
+<area shape="rect" id="node9" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="1565,262,1707,303"/>
+<area shape="rect" id="node22" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="172,262,311,303"/>
+<area shape="rect" id="node23" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="943,81,1101,122"/>
+<area shape="rect" id="node29" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="1380,269,1540,296"/>
+<area shape="rect" id="node30" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="1279,171,1421,213"/>
+<area shape="rect" id="node31" href="$_air_frame__m_8h.html" title="veins/base/messages\l/AirFrame_m.h" alt="" coords="1165,81,1315,122"/>
+<area shape="rect" id="node3" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="754,541,947,568"/>
+<area shape="rect" id="node6" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="509,360,672,387"/>
+<area shape="rect" id="node5" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="739,624,961,651"/>
+<area shape="rect" id="node7" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="500,451,679,477"/>
+<area shape="rect" id="node10" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="1646,443,1788,485"/>
+<area shape="rect" id="node21" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="1565,353,1707,394"/>
+<area shape="rect" id="node18" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="1917,534,2059,575"/>
+<area shape="rect" id="node25" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="285,171,443,213"/>
+<area shape="rect" id="node27" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="738,262,957,303"/>
+<area shape="rect" id="node28" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="753,451,948,477"/>
+<area shape="rect" id="node32" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="678,179,833,205"/>
+<area shape="rect" id="node33" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="519,262,661,303"/>
+</map>

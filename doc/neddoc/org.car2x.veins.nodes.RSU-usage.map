@@ -1,0 +1,6 @@
+<area shape="rect" id="node1" href="org.car2x.veins.nodes.RSU.html" title="Compound Module RSU" alt="" coords="195,81,267,106">
+<area shape="rect" id="node2" href="ned.IdealChannel.html" title="Channel IdealChannel" alt="" coords="5,155,104,181">
+<area shape="rect" id="node3" href="org.car2x.veins.modules.nic.INic80211p.html" title="Module Interface INic80211p" alt="" coords="128,155,216,181">
+<area shape="rect" id="node4" href="org.car2x.veins.base.modules.BaseMobility.html" title="Simple Module BaseMobility" alt="" coords="241,155,337,181">
+<area shape="rect" id="node5" href="org.car2x.veins.base.modules.IBaseApplLayer.html" title="Module Interface IBaseApplLayer" alt="" coords="363,155,477,181">
+<area shape="rect" id="node6" href="RSUExampleScenario.html" title="Network RSUExampleScenario" alt="" coords="154,6,307,31">

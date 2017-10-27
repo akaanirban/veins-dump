@@ -1,0 +1,19 @@
+<map id="BasePhyLayer::initialize" name="BasePhyLayer::initialize">
+<area shape="rect" id="node2" href="$class_f_w_math.html#af308407856d9835b103f2421e373ee28" title="Converts a dBm value into milliwatts. " alt="" coords="245,5,384,32"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="223,56,406,83"/>
+<area shape="rect" id="node5" href="$class_base_phy_layer.html#a93b118fa0564e329eb2ff68279f4584d" title="Initializes and returns the radio class to use. " alt="" coords="233,107,396,149"/>
+<area shape="rect" id="node8" href="$class_find_module.html#a36e4632a6c8c7dbdc177639957a8e62a" title="Returns a pointer to the module with the type of this template. " alt="" coords="216,173,413,200"/>
+<area shape="rect" id="node10" href="$class_base_phy_layer.html#a8ea7353793eed2f1a7b0cd1caacd72e9" title="Initializes the AnalogueModels with the data from the passed XML&#45;config data. " alt="" coords="233,225,396,266"/>
+<area shape="rect" id="node14" href="$class_base_phy_layer.html#a9da4f8ffaa373a0de7895cbea524816b" title="Initializes the Decider with the data from the passed XML&#45;config data. " alt="" coords="233,290,396,331"/>
+<area shape="rect" id="node16" href="$class_base_phy_layer.html#a6831a45d54cb89ff44836fa811d239c2" title="Initializes the Antenna with the data from the passed XML&#45;config data. " alt="" coords="233,355,396,397"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="503,21,620,48"/>
+<area shape="rect" id="node6" href="$class_base_phy_layer.html#a379b5527a61ac5dfe378691faca6c2d9" title="Reads and returns the parameter with the passed name. " alt="" coords="481,72,641,99"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_radio.html#aed80922c736427067f27669c87aaf4f8" title="function called by PhyLayer in order to make an entry in the switch times matrix, i..." alt="" coords="465,123,657,149"/>
+<area shape="rect" id="node9" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="470,173,653,200"/>
+<area shape="rect" id="node11" href="$class_base_phy_layer.html#a419df7f53684ee758de1dcabb959e10f" title="Creates and returns an instance of the AnalogueModel with the specified name. " alt="" coords="468,225,655,266"/>
+<area shape="rect" id="node13" href="$class_base_phy_layer.html#aa89a9272b99ab3005347301c2effc254" title="Utility function. " alt="" coords="461,290,661,331"/>
+<area shape="rect" id="node12" href="$class_veins_1_1_radio.html#a38a6c78b55f1442108b44a0bd27abb9f" title="Returns a pointer to the RadioStateAnalogueModel. " alt="" coords="710,225,887,266"/>
+<area shape="rect" id="node15" href="$class_base_phy_layer.html#a095d1b5fd25b9ada3ac86d3c9237c3f8" title="Creates and returns an instance of the Decider with the specified name. " alt="" coords="472,355,651,397"/>
+<area shape="rect" id="node17" href="$class_base_phy_layer.html#a2f4ac3bf2db3af3055d8c9397d2ffe3e" title="Creates and returns an instance of the Antenna with the specified name as a shared pointer..." alt="" coords="471,421,652,462"/>
+<area shape="rect" id="node18" href="$class_base_phy_layer.html#afe8f862b497716d20c4f380662a25471" title="Creates and returns an instance of the SampledAntenna1D class as a shared pointer. " alt="" coords="717,421,880,462"/>
+</map>

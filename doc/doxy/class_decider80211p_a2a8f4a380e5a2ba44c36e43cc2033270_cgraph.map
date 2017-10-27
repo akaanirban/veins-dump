@@ -1,0 +1,48 @@
+<map id="Decider80211p::processNewSignal" name="Decider80211p::processNewSignal">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="1521,976,1700,1002"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="1507,98,1715,125"/>
+<area shape="rect" id="node6" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="1544,48,1677,74"/>
+<area shape="rect" id="node7" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="1532,149,1689,176"/>
+<area shape="rect" id="node5" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="1785,98,1935,125"/>
+<area shape="rect" id="node8" href="$class_air_frame11p.html#ad9c2571b011c2b081ad1689218f0d0ac" title="AirFrame11p::setUnderSensitivity" alt="" coords="247,470,465,497"/>
+<area shape="rect" id="node9" href="$class_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="Decider80211p::cca" alt="" coords="1269,354,1408,381"/>
+<area shape="rect" id="node27" href="$class_decider80211p.html#af06ba4862697730ee05b65f6bf90279b" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="265,580,447,622"/>
+<area shape="rect" id="node46" href="$class_decider80211p_to_phy80211p_interface.html#a71c8cb40450b065178bd9715b9f890ca" title="Decider80211pToPhy80211p\lInterface::getRadioState" alt="" coords="261,960,451,1002"/>
+<area shape="rect" id="node47" href="$class_air_frame11p.html#aa00aa01ba7302cd1078a5a51f6bc5cb5" title="AirFrame11p::setWasTransmitting" alt="" coords="245,1026,467,1053"/>
+<area shape="rect" id="node38" href="$class_veins_1_1_air_frame.html#abac89b81d2c1fdce7f64bd6c91811032" title="Veins::AirFrame::getId" alt="" coords="1534,1077,1687,1104"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="1801,181,1919,208"/>
+<area shape="rect" id="node10" href="$class_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="1514,504,1707,530"/>
+<area shape="rect" id="node12" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="1515,352,1706,378"/>
+<area shape="rect" id="node14" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="1781,733,1939,760"/>
+<area shape="rect" id="node15" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="1519,301,1702,328"/>
+<area shape="rect" id="node16" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="1521,605,1700,632"/>
+<area shape="rect" id="node17" href="$class_mapping_utils.html#a0d8bf65254d099c87948c1c300986696" title="MappingUtils::add" alt="" coords="1547,656,1674,682"/>
+<area shape="rect" id="node19" href="$class_decider_to_phy_interface.html#a2c55926187883df5bc322c947d317534" title="Returns a Mapping which defines the thermal noise in the passed time frame (in mW). " alt="" coords="1533,707,1689,748"/>
+<area shape="rect" id="node20" href="$class_mapping_utils.html#aec04c2f94a70e276ad22fb63ee9969ea" title="Iterates over the passed mapping and returns value at the key entry with the smallest value..." alt="" coords="1537,402,1685,429"/>
+<area shape="rect" id="node26" href="$class_mapping_utils.html#afa2d78cdfa899918c90a508ddab0ea5f" title="The default value for findMax() functions if it does not find a maximum element. " alt="" coords="1513,250,1708,277"/>
+<area shape="rect" id="node11" href="$class_decider_to_phy_interface.html#aa7af5edbbc50269a93c10bd682aa79f6" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="1782,626,1938,667"/>
+<area shape="rect" id="node13" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="1763,248,1957,274"/>
+<area shape="rect" id="node18" href="$class_mapping_utils.html#a45c56f1ea72b2f8b278d1016ac6228df" title="MappingUtils::applyElement\lWiseOperator" alt="" coords="1767,871,1953,912"/>
+<area shape="rect" id="node21" href="$class_const_mapping.html#a5ff3a15fe6d536fa7a26a3fe1ff1b274" title="Returns a pointer of a new Iterator which is able to iterate over this Mapping. " alt="" coords="1767,430,1953,471"/>
+<area shape="rect" id="node22" href="$class_const_mapping_iterator.html#a4a6348a453418da95978e570fec046fc" title="Returns true if the current position of the iterator is in range of the function. ..." alt="" coords="1787,495,1933,536"/>
+<area shape="rect" id="node23" href="$class_const_mapping_iterator.html#ad4419c259e747867f003d07d62d4259f" title="Returns the value of the Mapping at the current position. " alt="" coords="1787,560,1933,602"/>
+<area shape="rect" id="node24" href="$class_const_mapping_iterator.html#ad4bac7233c154b7086c6124d2e21be49" title="Returns true if the iterator has a next value it can iterate to on a call to &quot;next()&quot;. " alt="" coords="1787,299,1933,340"/>
+<area shape="rect" id="node25" href="$class_const_mapping_iterator.html#afdafa6870cd19b3d35674a7bc777585d" title="Iterates to the next position of the Mapping. " alt="" coords="1787,364,1933,406"/>
+<area shape="rect" id="node28" href="$class_base_decider.html#add7242168c4bb521c6335f3de590e4b0" title="Checks if the changed channel state enables us to answer any ongoing ChannelSenseRequests. " alt="" coords="515,639,696,680"/>
+<area shape="rect" id="node44" href="$class_decider_to_phy_interface.html#a319e413b963f03ff218b0d0024fb66b9" title="Called by the Decider to send a control message to the MACLayer. " alt="" coords="999,620,1164,662"/>
+<area shape="rect" id="node29" href="$struct_base_decider_1_1_c_s_r_info.html#a080b7bc98ed8cbdb7c744609b1bedb58" title="BaseDecider::CSRInfo\l::getRequest" alt="" coords="766,822,922,863"/>
+<area shape="rect" id="node30" href="$class_base_decider.html#aad89f97ba5dcfd556be7556f04a840b1" title="Returns point in time when the ChannelSenseRequest of the passed CSRInfo can be answered (e..." alt="" coords="745,486,943,513"/>
+<area shape="rect" id="node32" href="$class_decider_to_phy_interface.html#a73660771f127a990489fb04da07ea39e" title="Returns the current simulation time. " alt="" coords="1003,544,1159,586"/>
+<area shape="rect" id="node34" href="$class_decider_to_phy_interface.html#af85151048dba05ec27e378000fd95403" title="Tells the PhyLayer to cancel a scheduled message (AirFrame or ControlMessage). " alt="" coords="753,639,935,680"/>
+<area shape="rect" id="node35" href="$class_base_decider.html#ab8e925001d1f8630338c50f8ec10bb0d" title="Answers the ChannelSenseRequest (CSR) from the passed CSRInfo. " alt="" coords="756,705,932,732"/>
+<area shape="rect" id="node45" href="$class_decider_to_phy_interface.html#a223fb24be9268abba32e90181fa248b9" title="Tells the PhyLayer to reschedule a message (AirFrame or ControlMessage). " alt="" coords="766,756,922,798"/>
+<area shape="rect" id="node31" href="$class_channel_sense_request.html#a27ef56313d2b2b273fba86467906518b" title="ChannelSenseRequest\l::getSenseMode" alt="" coords="1003,479,1159,520"/>
+<area shape="rect" id="node33" href="$class_channel_sense_request.html#a2561b0c8c161ace979931b2c9f876971" title="ChannelSenseRequest\l::getSenseTimeout" alt="" coords="1003,414,1159,455"/>
+<area shape="rect" id="node36" href="$class_base_decider.html#a12dd419a9e88e0b28f8d4e530e058802" title="Calculates the RSSI value for the passed interval. " alt="" coords="993,698,1170,739"/>
+<area shape="rect" id="node43" href="$class_channel_sense_request.html#a0d14965927d61f2764b658bd3a8c3231" title="ChannelSenseRequest\l::setResult" alt="" coords="1003,763,1159,804"/>
+<area shape="rect" id="node37" href="$class_base_decider.html#a8ca42b7d77c0a1510255ec2a451d06d0" title="Calculates a RSSI&#45;Mapping (or Noise&#45;Strength&#45;Mapping) for a Signal. " alt="" coords="1219,714,1458,741"/>
+<area shape="rect" id="node42" href="$class_mapping_utils.html#a8f9aa259b41b8fdf13311959b36aa306" title="Iterates over the passed mapping and returns value at the key entry with the highest value..." alt="" coords="1535,453,1687,480"/>
+<area shape="rect" id="node39" href="$class_signal.html#a7c4710243cf87caf7dfc9f313e2619b2" title="Returns the point in time when the receiving of the Signal started at the receiver module..." alt="" coords="1525,874,1696,901"/>
+<area shape="rect" id="node40" href="$class_signal.html#a2875223239e124d85949e1116cc12ae9" title="Returns the point in time when the receiving of the Signal ended at the receiver module. " alt="" coords="1527,824,1694,850"/>
+<area shape="rect" id="node41" href="$class_mapping_utils.html#a37d38fd0a9593e6f055ac8d90758965e" title="MappingUtils::subtract" alt="" coords="1534,925,1687,952"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="WaveShortMessage::WaveShortMessage" name="WaveShortMessage::WaveShortMessage">
+<area shape="rect" id="node2" href="$class_wave_short_message.html#af0ec43b1fdafdf92ea10528dbb08e508" title="WaveShortMessage::dup" alt="" coords="267,56,437,83"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="491,5,674,32"/>
+<area shape="rect" id="node4" href="$class_tra_c_i_demo11p.html#a60a8abbb6f86cfbeabef68b1e415721e" title="this function is called upon receiving a WaveShortMessage " alt="" coords="499,56,666,83"/>
+<area shape="rect" id="node5" href="$class_tra_c_i_demo_r_s_u11p.html#aaa74f9686813bb7f09a293b6572766fb" title="this function is called upon receiving a WaveShortMessage " alt="" coords="485,107,680,133"/>
+</map>

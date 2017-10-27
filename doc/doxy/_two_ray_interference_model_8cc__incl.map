@@ -1,0 +1,17 @@
+<map id="TwoRayInterferenceModel.cc" name="TwoRayInterferenceModel.cc">
+<area shape="rect" id="node2" href="$_two_ray_interference_model_8h.html" title="veins/modules/analogueModel\l/TwoRayInterferenceModel.h" alt="" coords="605,171,803,213"/>
+<area shape="rect" id="node22" href="$_air_frame__m_8h.html" title="veins/base/messages\l/AirFrame_m.h" alt="" coords="989,81,1139,122"/>
+<area shape="rect" id="node3" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="729,262,871,303"/>
+<area shape="rect" id="node10" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="565,262,704,303"/>
+<area shape="rect" id="node11" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="369,443,511,485"/>
+<area shape="rect" id="node4" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="743,541,936,568"/>
+<area shape="rect" id="node7" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="923,360,1085,387"/>
+<area shape="rect" id="node6" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="729,624,951,651"/>
+<area shape="rect" id="node8" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="915,451,1093,477"/>
+<area shape="rect" id="node19" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="197,534,339,575"/>
+<area shape="rect" id="node23" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="895,171,1037,213"/>
+<area shape="rect" id="node27" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="1085,179,1240,205"/>
+<area shape="rect" id="node25" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="398,262,540,303"/>
+<area shape="rect" id="node26" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="478,353,620,394"/>
+<area shape="rect" id="node28" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="1113,262,1255,303"/>
+</map>

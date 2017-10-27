@@ -1,0 +1,17 @@
+<map id="NicEntryDirect.cc" name="NicEntryDirect.cc">
+<area shape="rect" id="node2" href="$_nic_entry_direct_8h.html" title="veins/base/connectionManager\l/NicEntryDirect.h" alt="" coords="482,81,685,122"/>
+<area shape="rect" id="node11" href="$_channel_access_8h.html" title="veins/base/connectionManager\l/ChannelAccess.h" alt="" coords="985,81,1188,122"/>
+<area shape="rect" id="node3" href="$_nic_entry_8h.html" title="veins/base/connectionManager\l/NicEntry.h" alt="" coords="9,353,212,394"/>
+<area shape="rect" id="node6" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="622,608,814,635"/>
+<area shape="rect" id="node8" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="806,451,969,477"/>
+<area shape="rect" id="node7" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="632,683,854,709"/>
+<area shape="rect" id="node9" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="857,533,1036,560"/>
+<area shape="rect" id="node13" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="542,262,681,303"/>
+<area shape="rect" id="node18" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="1038,269,1233,296"/>
+<area shape="rect" id="node19" href="$_base_mobility_8h.html" title="veins/base/modules\l/BaseMobility.h" alt="" coords="822,171,961,213"/>
+<area shape="rect" id="node14" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="277,443,416,485"/>
+<area shape="rect" id="node17" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="492,353,630,394"/>
+<area shape="rect" id="node16" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="342,533,529,560"/>
+<area shape="rect" id="node20" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="969,360,1129,387"/>
+<area shape="rect" id="node23" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="756,353,894,394"/>
+</map>

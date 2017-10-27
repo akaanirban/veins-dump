@@ -1,0 +1,12 @@
+<map id="BaseWorldUtility::speedOfLight" name="BaseWorldUtility::speedOfLight">
+<area shape="rect" id="node2" href="$class_simple_pathloss_model.html#ade7562b60b0a5ced0d81ca29bee99ffd" title="Method to calculate the attenuation value for pathloss. " alt="" coords="257,5,405,46"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic. " alt="" coords="238,70,423,111"/>
+<area shape="rect" id="node8" href="$class_simple_pathloss_model.html#a632b408d1c0ecac4fd90da5d48d73c5e" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal. " alt="" coords="257,135,405,177"/>
+<area shape="rect" id="node9" href="$class_simple_pathloss_const_mapping.html#aa263547a6e528cc1acf88fc496510e40" title="Calculates attenuation from the distance factor and the current positions frequency (or the models ca..." alt="" coords="232,201,429,242"/>
+<area shape="rect" id="node10" href="$class_jakes_fading_mapping.html#a23e8978d7aab4509f846ac6a8044de19" title="Returns the value of the mapping at the passed position. " alt="" coords="258,266,403,307"/>
+<area shape="rect" id="node11" href="$class_two_ray_interference_model_1_1_mapping.html#ac293b9b7bf938aa591ec122d5b1172a4" title="Returns the value of the mapping at the passed position. " alt="" coords="243,331,418,373"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one. " alt="" coords="477,70,632,111"/>
+<area shape="rect" id="node5" href="$class_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Sends the passed AirFrame to the channel. " alt="" coords="681,77,911,104"/>
+<area shape="rect" id="node6" href="$class_base_phy_layer.html#a17b1d469775962d23835dd5f43a639ac" title="Handles messages received from the upper layer through the data gate. " alt="" coords="961,70,1149,111"/>
+<area shape="rect" id="node7" href="$class_base_phy_layer.html#a3880154c8db8b8efb5315cb6ef8f6c41" title="OMNeT++ handle message function. " alt="" coords="1198,77,1405,104"/>
+</map>

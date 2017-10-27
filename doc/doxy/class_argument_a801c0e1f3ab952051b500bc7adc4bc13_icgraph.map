@@ -1,0 +1,51 @@
+<map id="Argument::MappedZero" name="Argument::MappedZero">
+<area shape="rect" id="node2" href="$class_argument.html#a4de14fe94af77f9d568cf74313dfbcd1" title="Initializes the Argument with the dimensions of the passed DimensionSet set to zero, and the passed value for the time (or zero, if omitted). " alt="" coords="249,49,391,76"/>
+<area shape="rect" id="node3" href="$class_base_decider.html#a12dd419a9e88e0b28f8d4e530e058802" title="Calculates the RSSI value for the passed interval. " alt="" coords="769,5,946,46"/>
+<area shape="rect" id="node20" href="$class_decider80211p.html#af3174316d16de21ba92ee86ec5cb50cb" title="Calculates a RSSI&#45;Mapping (or Noise&#45;Strength&#45;Mapping) for a Signal. " alt="" coords="510,607,679,649"/>
+<area shape="rect" id="node23" href="$class_base_decider.html#a8ca42b7d77c0a1510255ec2a451d06d0" title="Calculates a RSSI&#45;Mapping (or Noise&#45;Strength&#45;Mapping) for a Signal. " alt="" coords="475,151,714,177"/>
+<area shape="rect" id="node21" href="$class_decider80211p.html#aed94d240800692fe3a7c604a6d11e54e" title="Calculates a SNR&#45;Mapping for a Signal. " alt="" coords="773,557,942,598"/>
+<area shape="rect" id="node24" href="$class_base_decider.html#abac709d59f48d292f147919854c002e2" title="Calculates a SNR&#45;Mapping for a Signal. " alt="" coords="769,287,946,329"/>
+<area shape="rect" id="node28" href="$class_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="Decider80211p::cca" alt="" coords="1544,419,1683,445"/>
+<area shape="rect" id="node29" href="$class_base_mac_layer.html#a1c05648ce7d11bc767f9acd3d64ee067" title="Creates a simple Mapping with a constant curve progression at the passed value. " alt="" coords="217,775,423,817"/>
+<area shape="rect" id="node31" href="$class_base_mac_layer.html#a23ed373dcfd98255df5f5ffa7e30eec6" title="Creates a simple Mapping with a constant curve progression at the passed value and discontinuities at..." alt="" coords="214,841,426,882"/>
+<area shape="rect" id="node32" href="$class_base_mac_layer.html#a3da0a0f34a80528e6efcb5593a073c55" title="Creates a Mapping defined over time and frequency with constant power in a certain frequency band..." alt="" coords="225,906,415,947"/>
+<area shape="rect" id="node35" href="$class_argument.html#a137a911de0281cbb519fe13727aa0813" title="Returns the value for the specified dimension. " alt="" coords="241,1177,399,1204"/>
+<area shape="rect" id="node48" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="231,429,409,456"/>
+<area shape="rect" id="node50" href="$class_multi_dim_mapping_iterator.html#a3a28409c944c35a15d0353abd689273d" title="Returns the value of the underlying mapping at the current position. " alt="" coords="238,1279,402,1321"/>
+<area shape="rect" id="node43" href="$class_multi_dim_mapping.html#a524f27f6b8f01dc973dbe54f0f9c5ed2" title="Returns the value of this Mapping at position specified by the passed Argument. " alt="" coords="509,1557,680,1598"/>
+<area shape="rect" id="node4" href="$class_base_decider.html#af471a55749109aacb99429b409ccb9c1" title="A function that returns information about the channel state. " alt="" coords="1005,12,1208,39"/>
+<area shape="rect" id="node5" href="$class_base_decider.html#ab8e925001d1f8630338c50f8ec10bb0d" title="Answers the ChannelSenseRequest (CSR) from the passed CSRInfo. " alt="" coords="1019,88,1195,115"/>
+<area shape="rect" id="node18" href="$class_s_n_r_threshold_decider.html#a1e6266fe8a4d10ce5443e37321d3bcaa" title="A function that returns information about the channel state. " alt="" coords="1030,222,1183,263"/>
+<area shape="rect" id="node6" href="$class_base_decider.html#a1dba383c238fba606279ef483b435f78" title="Handles a new incoming ChannelSenseRequest and returns the next (or latest) time to handle the reques..." alt="" coords="1262,105,1469,146"/>
+<area shape="rect" id="node8" href="$class_base_decider.html#a2f175306cc0ae9d2805bc050315a47d8" title="Handles the timeout or end of a ChannelSenseRequest by calculating the ChannelState and returning the..." alt="" coords="1275,39,1455,81"/>
+<area shape="rect" id="node9" href="$class_base_decider.html#add7242168c4bb521c6335f3de590e4b0" title="Checks if the changed channel state enables us to answer any ongoing ChannelSenseRequests. " alt="" coords="1275,222,1456,263"/>
+<area shape="rect" id="node7" href="$class_base_decider.html#afd31e5a65d1798d329ace9bdbec25d64" title="This function is called by the PhyLayer to hand over a ChannelSenseRequest. " alt="" coords="1518,73,1709,114"/>
+<area shape="rect" id="node10" href="$class_base_decider.html#ae535b44e34061014fe282c36c27b0193" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="1517,222,1709,263"/>
+<area shape="rect" id="node13" href="$class_decider80211p.html#af06ba4862697730ee05b65f6bf90279b" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="1522,287,1705,329"/>
+<area shape="rect" id="node17" href="$class_s_n_r_threshold_decider.html#ace13845f43c5328cea40eb00c59af2b3" title="Processes a new Signal. " alt="" coords="1537,353,1690,394"/>
+<area shape="rect" id="node11" href="$class_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="1762,200,1977,227"/>
+<area shape="rect" id="node12" href="$class_base_decider.html#a273892d7b0c9874e4efe3c7755aa7a17" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="2029,200,2216,227"/>
+<area shape="rect" id="node14" href="$class_decider80211p.html#a2a8f4a380e5a2ba44c36e43cc2033270" title="Processes a new Signal. " alt="" coords="1774,353,1965,394"/>
+<area shape="rect" id="node15" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="1758,419,1981,445"/>
+<area shape="rect" id="node16" href="$class_phy_layer80211p.html#a6ab453897d17cd1dab056d03594dbb72" title="Handles self scheduled messages. " alt="" coords="1775,287,1963,329"/>
+<area shape="rect" id="node19" href="$class_s_n_r_threshold_decider.html#aa7e33361b328274b04ff7bd2d6206e6d" title="Answers the ChannelSenseRequest (CSR) from the passed CSRInfo. " alt="" coords="1289,287,1442,329"/>
+<area shape="rect" id="node22" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="1000,535,1213,561"/>
+<area shape="rect" id="node26" href="$class_decider80211p.html#a09e54d78f37b5e61aa100ea5b9f3083f" title="Calculates the RSSI value for the passed ChannelSenseRequest. " alt="" coords="763,135,952,177"/>
+<area shape="rect" id="node27" href="$class_s_n_r_threshold_decider.html#a0946c7a3e2ee04e2bb1c2dce4b7be7ec" title="Returns point in time when the ChannelSenseRequest of the passed CSRInfo can be answered (e..." alt="" coords="781,70,934,111"/>
+<area shape="rect" id="node25" href="$class_s_n_r_threshold_decider.html#a6002f2ee8ffa35ded0162c72f93c9fba" title="Processes a received AirFrame. " alt="" coords="1030,287,1183,329"/>
+<area shape="rect" id="node30" href="$class_base_mac_layer.html#a39f6ed846e352830efd2984f7d045a6f" title="Creates a simple Signal defined over time with the passed parameters. " alt="" coords="498,775,691,817"/>
+<area shape="rect" id="node33" href="$class_mac1609__4.html#aa19fc16c9c52fbe7a896f725cc8a7883" title="Mac1609_4::createSignal" alt="" coords="510,841,679,868"/>
+<area shape="rect" id="node34" href="$class_mac1609__4.html#a077b6bebe9a8f8d2a6fcce31c6af86a7" title="Mac1609_4::attachSignal" alt="" coords="773,841,942,868"/>
+<area shape="rect" id="node36" href="$class_filled_up_mapping.html#a115d30d5ca3f2f0acb43beb86a498332" title="Appends the passed value at the passed position to the mapping. " alt="" coords="493,1207,696,1233"/>
+<area shape="rect" id="node37" href="$class_mapping_utils.html#a6d524e08add1a4a02d7e37425783b094" title="MappingUtils::createCompatible\lMapping" alt="" coords="491,1258,699,1299"/>
+<area shape="rect" id="node38" href="$class_simple_const_mapping.html#aa6f392c0904f66eb264c597980873367" title="Utility method to fill add range of key entries in the passed dimension (and recursively its sub dime..." alt="" coords="521,1323,668,1365"/>
+<area shape="rect" id="node39" href="$class_mapping_utils.html#a329873bda3a9b86d570a5634d2598ade" title="Iterates over the passed mapping and returns the value at the key entry with the highest value in the..." alt="" coords="519,1389,671,1416"/>
+<area shape="rect" id="node40" href="$class_mapping_utils.html#a29386749cfe601c644abc145c060c430" title="Iterates over the passed mapping and returns the value at the key entry with the smallest value in th..." alt="" coords="521,1440,669,1467"/>
+<area shape="rect" id="node41" href="$class_simple_pathloss_const_mapping.html#aa263547a6e528cc1acf88fc496510e40" title="Calculates attenuation from the distance factor and the current positions frequency (or the models ca..." alt="" coords="496,1491,693,1533"/>
+<area shape="rect" id="node42" href="$class_two_ray_interference_model_1_1_mapping.html#ac293b9b7bf938aa591ec122d5b1172a4" title="Returns the value of the mapping at the passed position. " alt="" coords="507,893,682,934"/>
+<area shape="rect" id="node44" href="$class_multi_dim_mapping_iterator.html#a3a3b5ddc5aa1636772b9a89c085acdfc" title="Iterates to the specified position. " alt="" coords="513,958,677,999"/>
+<area shape="rect" id="node45" href="$class_multi_dim_mapping_iterator.html#a71f35cd0d6fabecb65019466018c51ca" title="Lets the iterator point to the passed position. " alt="" coords="513,1023,677,1065"/>
+<area shape="rect" id="node46" href="$class_const_mapping.html#a704ff28c36a5ee2fe17cd729288eaf5f" title="Prints the Mapping to an output stream. " alt="" coords="525,1089,664,1116"/>
+<area shape="rect" id="node47" href="$class_multi_dim_mapping.html#a7b50181a1d5e38902c6468bc739f6aa7" title="Changes the value of the Mapping at the specified position. " alt="" coords="509,1141,680,1182"/>
+<area shape="rect" id="node49" href="$class_nakagami_fading.html#a97bcd3105e2468769585fbfcda39599b" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies). " alt="" coords="500,455,689,481"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="SampledAntenna1D" name="SampledAntenna1D">
+<area shape="rect" id="node2" href="$class_antenna.html" title="The Antenna class is the base class of all antenna models. " alt="" coords="5,251,75,277"/>
+<area shape="rect" id="node3" href="$class_mapping.html" title="Represents a changeable mapping (mathematical function) from at least time to Argument::mapped_type. " alt="" coords="99,251,169,277"/>
+<area shape="rect" id="node4" href="$class_const_mapping.html" title="Represents a not changeable mapping (mathematical function) from domain with at least the time to a A..." alt="" coords="81,173,188,200"/>
+<area shape="rect" id="node5" href="$class_dimension_set.html" title="Represents a set of dimensions which is used to define over which dimensions a mapping is defined (th..." alt="" coords="83,83,187,109"/>
+</map>

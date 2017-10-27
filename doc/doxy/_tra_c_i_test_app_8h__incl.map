@@ -1,0 +1,30 @@
+<map id="TraCITestApp.h" name="TraCITestApp.h">
+<area shape="rect" id="node5" href="$_base_appl_layer_8h.html" title="veins/base/modules\l/BaseApplLayer.h" alt="" coords="625,171,764,213"/>
+<area shape="rect" id="node17" href="$_tra_c_i_mobility_8h.html" title="veins/modules/mobility\l/traci/TraCIMobility.h" alt="" coords="2369,81,2524,122"/>
+<area shape="rect" id="node44" href="$_tra_c_i_command_interface_8h.html" title="veins/modules/mobility\l/traci/TraCICommandInterface.h" alt="" coords="2176,262,2387,303"/>
+<area shape="rect" id="node7" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="1313,699,1505,725"/>
+<area shape="rect" id="node9" href="$_base_layer_8h.html" title="veins/base/modules\l/BaseLayer.h" alt="" coords="625,262,764,303"/>
+<area shape="rect" id="node16" href="$_simple_address_8h.html" title="veins/base/utils/SimpleAddress.h" alt="" coords="120,624,336,651"/>
+<area shape="rect" id="node8" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="1298,773,1520,800"/>
+<area shape="rect" id="node10" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="625,353,764,394"/>
+<area shape="rect" id="node15" href="$_passed_message_8h.html" title="veins/base/utils/PassedMessage.h" alt="" coords="563,624,788,651"/>
+<area shape="rect" id="node11" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="715,534,853,575"/>
+<area shape="rect" id="node14" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="639,443,777,485"/>
+<area shape="rect" id="node13" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="907,624,1093,651"/>
+<area shape="rect" id="node21" href="$_base_mobility_8h.html" title="veins/base/modules\l/BaseMobility.h" alt="" coords="905,262,1044,303"/>
+<area shape="rect" id="node28" href="$_find_module_8h.html" title="veins/base/utils/FindModule.h" alt="" coords="2611,541,2805,568"/>
+<area shape="rect" id="node29" href="$_tra_c_i_scenario_manager_8h.html" title="veins/modules/mobility\l/traci/TraCIScenarioManager.h" alt="" coords="1825,171,2025,213"/>
+<area shape="rect" id="node22" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="1340,541,1503,568"/>
+<area shape="rect" id="node25" href="$_move_8h.html" title="veins/base/utils/Move.h" alt="" coords="839,360,999,387"/>
+<area shape="rect" id="node27" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="1095,443,1233,485"/>
+<area shape="rect" id="node23" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="1535,624,1713,651"/>
+<area shape="rect" id="node32" href="$_base_connection_manager_8h.html" title="veins/base/connectionManager\l/BaseConnectionManager.h" alt="" coords="1799,353,2001,394"/>
+<area shape="rect" id="node34" href="$_obstacle_control_8h.html" title="veins/modules/obstacle\l/ObstacleControl.h" alt="" coords="2510,262,2668,303"/>
+<area shape="rect" id="node38" href="$_tra_c_i_buffer_8h.html" title="veins/modules/mobility\l/traci/TraCIBuffer.h" alt="" coords="2025,353,2180,394"/>
+<area shape="rect" id="node40" href="$_tra_c_i_color_8h.html" title="veins/modules/mobility\l/traci/TraCIColor.h" alt="" coords="2204,353,2359,394"/>
+<area shape="rect" id="node41" href="$_tra_c_i_connection_8h.html" title="veins/modules/mobility\l/traci/TraCIConnection.h" alt="" coords="1557,262,1723,303"/>
+<area shape="rect" id="node43" href="$_tra_c_i_coord_8h.html" title="veins/modules/mobility\l/traci/TraCICoord.h" alt="" coords="1377,353,1532,394"/>
+<area shape="rect" id="node33" href="$_nic_entry_8h.html" title="veins/base/connectionManager\l/NicEntry.h" alt="" coords="1511,443,1713,485"/>
+<area shape="rect" id="node35" href="$_obstacle_8h.html" title="veins/modules/obstacle\l/Obstacle.h" alt="" coords="2535,353,2693,394"/>
+<area shape="rect" id="node37" href="$_annotation_manager_8h.html" title="veins/modules/world\l/annotations/AnnotationManager.h" alt="" coords="2525,443,2744,485"/>
+</map>

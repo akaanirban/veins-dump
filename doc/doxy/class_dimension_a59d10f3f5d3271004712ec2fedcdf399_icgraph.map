@@ -1,0 +1,24 @@
+<map id="Dimension::frequency" name="Dimension::frequency">
+<area shape="rect" id="node2" href="$class_decider80211p.html#a09e54d78f37b5e61aa100ea5b9f3083f" title="Calculates the RSSI value for the passed ChannelSenseRequest. " alt="" coords="471,147,660,189"/>
+<area shape="rect" id="node3" href="$class_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="Decider80211p::cca" alt="" coords="496,391,635,417"/>
+<area shape="rect" id="node7" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="459,239,672,265"/>
+<area shape="rect" id="node8" href="$class_base_mac_layer.html#a3da0a0f34a80528e6efcb5593a073c55" title="Creates a Mapping defined over time and frequency with constant power in a certain frequency band..." alt="" coords="471,5,660,46"/>
+<area shape="rect" id="node12" href="$class_two_ray_interference_model.html#a4488ba8c6127ff2e016edaa6bbd6a4c0" title="Has to be overriden by every implementation. " alt="" coords="219,223,394,265"/>
+<area shape="rect" id="node13" href="$class_nakagami_fading.html#a97bcd3105e2468769585fbfcda39599b" title="Simple Nakagami&#45;m fading (based on a constant factor across all time and frequencies). " alt="" coords="471,289,660,316"/>
+<area shape="rect" id="node14" href="$class_simple_obstacle_shadowing.html#ab8f4e9c3b104f4b7fe18e4f275af79ac" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="476,493,655,534"/>
+<area shape="rect" id="node15" href="$class_simple_pathloss_model.html#a632b408d1c0ecac4fd90da5d48d73c5e" title="Filters a specified AirFrame&#39;s Signal by adding an attenuation over time to the Signal. " alt="" coords="491,583,639,625"/>
+<area shape="rect" id="node16" href="$class_base_phy_layer.html#adb6dcf56295ceb53b34e83eb409a40a2" title="Filters the passed AirFrame&#39;s Signal by every registered AnalogueModel. " alt="" coords="477,725,653,752"/>
+<area shape="rect" id="node21" href="$class_simple_pathloss_const_mapping.html#aa263547a6e528cc1acf88fc496510e40" title="Calculates attenuation from the distance factor and the current positions frequency (or the models ca..." alt="" coords="208,493,405,534"/>
+<area shape="rect" id="node22" href="$class_two_ray_interference_model_1_1_mapping.html#ac293b9b7bf938aa591ec122d5b1172a4" title="Returns the value of the mapping at the passed position. " alt="" coords="219,558,394,599"/>
+<area shape="rect" id="node5" href="$class_decider80211p.html#a2a8f4a380e5a2ba44c36e43cc2033270" title="Processes a new Signal. " alt="" coords="737,442,927,483"/>
+<area shape="rect" id="node6" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="721,289,943,316"/>
+<area shape="rect" id="node23" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="203,340,411,367"/>
+<area shape="rect" id="node4" href="$class_phy_layer80211p.html#a6ab453897d17cd1dab056d03594dbb72" title="Handles self scheduled messages. " alt="" coords="1249,439,1437,481"/>
+<area shape="rect" id="node9" href="$class_mac1609__4.html#aa19fc16c9c52fbe7a896f725cc8a7883" title="Mac1609_4::createSignal" alt="" coords="747,12,917,39"/>
+<area shape="rect" id="node10" href="$class_mac1609__4.html#a077b6bebe9a8f8d2a6fcce31c6af86a7" title="Mac1609_4::attachSignal" alt="" coords="1011,12,1181,39"/>
+<area shape="rect" id="node11" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="1251,12,1434,39"/>
+<area shape="rect" id="node17" href="$class_base_phy_layer.html#a671f083680882230b754b7e9578e6274" title="Handles incoming AirFrames with the state START_RECEIVE. " alt="" coords="729,613,935,654"/>
+<area shape="rect" id="node18" href="$class_base_phy_layer.html#a8d6f371fa6ea6ca89cb78764a05f31dd" title="Handles messages received from the channel (probably AirFrames). " alt="" coords="993,577,1199,604"/>
+<area shape="rect" id="node19" href="$class_base_phy_layer.html#a3880154c8db8b8efb5315cb6ef8f6c41" title="OMNeT++ handle message function. " alt="" coords="1486,577,1693,604"/>
+<area shape="rect" id="node20" href="$class_base_phy_layer.html#a17088ad93f59e143ff6c7ba866a31982" title="Handles self scheduled messages. " alt="" coords="1255,599,1431,641"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WaveShortMessage::setWsmData" name="WaveShortMessage::setWsmData">
+<area shape="rect" id="node2" href="$class_tra_c_i_demo11p.html#ad9a9d4f6da6e486797c930f6f6df5ab1" title="this function is called every time the vehicle receives a position update signal " alt="" coords="281,5,485,46"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a5a614f6db1fc5697214d7bb127112fd9" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="307,70,459,111"/>
+<area shape="rect" id="node4" href="$class_base_wave_appl_layer.html#a830e58e379655c6d24319c16f8db5e3d" title="handle self messages " alt="" coords="533,70,685,111"/>
+<area shape="rect" id="node5" href="$class_my_veins_app.html#ab1473243dc75114a7217e96caadd3f6a" title="handle self messages " alt="" coords="741,52,931,79"/>
+<area shape="rect" id="node6" href="$class_tra_c_i_demo11p.html#a7e6276d83c8f4717d3e014560885a9cc" title="handle self messages " alt="" coords="733,103,939,129"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Veins::TraCICommandInterface::Polygon" name="Veins::TraCICommandInterface::Polygon">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_command_interface.html" title="Veins::TraCICommandInterface" alt="" coords="5,200,211,227"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_connection.html" title="Veins::TraCIConnection" alt="" coords="135,109,297,136"/>
+<area shape="rect" id="node4" href="$struct_veins_1_1_tra_c_i_coord.html" title="Coord equivalent for storing TraCI coordinates. " alt="" coords="151,5,281,32"/>
+</map>

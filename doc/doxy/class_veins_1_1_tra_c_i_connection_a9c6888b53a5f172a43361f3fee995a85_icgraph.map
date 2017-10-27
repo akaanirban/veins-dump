@@ -1,0 +1,12 @@
+<map id="Veins::TraCIConnection::queryOptional" name="Veins::TraCIConnection::queryOptional">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_command_interface.html#a6ac5b17a01d5e6034ed0f806587b4829" title="Veins::TraCICommandInterface\l::addVehicle" alt="" coords="217,70,423,111"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_command_interface.html#a5ec16879b2f125f96cca09406ba948d7" title="Veins::TraCICommandInterface\l::getVersion" alt="" coords="217,135,423,177"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="492,5,649,46"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a2950402455646afe8ed6c36254cc9fa3" title="tries to add all vehicles in the vehicle queue to SUMO; " alt="" coords="472,70,669,111"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="743,5,889,46"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a84ebe9fb50441189bd39f949f2593115" title="read and execute all commands for the next timestep " alt="" coords="717,70,915,111"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="963,133,1160,174"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1208,133,1405,174"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_tra_c_i_scenario_manager_launchd.html#a4c5b4cac20e03a2e333fd3e49a6a7e0e" title="Veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="717,135,915,177"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="Veins::TraCIScenarioManager\l::init_traci" alt="" coords="472,194,669,235"/>
+</map>

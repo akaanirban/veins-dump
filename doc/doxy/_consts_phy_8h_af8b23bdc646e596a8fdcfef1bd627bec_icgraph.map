@@ -1,0 +1,5 @@
+<map id="getNDBPS" name="getNDBPS">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#abce6dae1623dde7c27d61a7e433c89a0" title="Mac1609_4::getFrameDuration" alt="" coords="142,5,343,32"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="611,5,794,32"/>
+<area shape="rect" id="node4" href="$class_mac1609__4.html#a077b6bebe9a8f8d2a6fcce31c6af86a7" title="Mac1609_4::attachSignal" alt="" coords="393,31,562,57"/>
+</map>

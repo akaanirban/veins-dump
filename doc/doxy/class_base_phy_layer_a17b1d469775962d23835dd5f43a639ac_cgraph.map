@@ -1,0 +1,30 @@
+<map id="BasePhyLayer::handleUpperMessage" name="BasePhyLayer::handleUpperMessage">
+<area shape="rect" id="node2" href="$class_veins_1_1_radio.html#aa6255c987dcff98f53fb9eed5e056d42" title="Returns the state the Radio is currently in. " alt="" coords="275,233,442,274"/>
+<area shape="rect" id="node3" href="$class_base_phy_layer.html#a1e42622259807fe3cf06935e7a818ccf" title="This function encapsulates messages from the upper layer into an AirFrame and sets all necessary attr..." alt="" coords="267,299,450,325"/>
+<area shape="rect" id="node15" href="$class_access_module_wrap.html#aabe6dcb792c40ce4c77b2f194aadbe5f" title="AccessModuleWrap::get" alt="" coords="1240,611,1405,637"/>
+<area shape="rect" id="node17" href="$class_base_mobility.html#a43e40c6e56445ca9439d7d44a37b12c1" title="Returns the current position at the current simulation time. " alt="" coords="275,610,442,651"/>
+<area shape="rect" id="node18" href="$class_base_mobility.html#adab2cdb010f29156d1f0164d523c481e" title="BaseMobility::getCurrent\lOrientation" alt="" coords="275,675,442,717"/>
+<area shape="rect" id="node19" href="$class_veins_1_1_air_frame.html#ac888e1f4f37dbd73ac7cc413e03cd0ae" title="Veins::AirFrame::setPoa" alt="" coords="276,741,441,768"/>
+<area shape="rect" id="node20" href="$class_base_phy_layer.html#aa59aef501cadd36c94d4f82efe9b64be" title="Schedule self message to passed point in time. " alt="" coords="249,792,468,819"/>
+<area shape="rect" id="node21" href="$class_veins_1_1_air_frame.html#ad18fc32ea8a21c0c375ffb52b09243cd" title="Veins::AirFrame::getDuration" alt="" coords="263,843,454,869"/>
+<area shape="rect" id="node22" href="$class_base_phy_layer.html#a1fe847ed3e50ccf3a3740234dfee42b1" title="Sends the passed AirFrame to the channel. " alt="" coords="243,893,474,920"/>
+<area shape="rect" id="node4" href="$class_mac_to_phy_control_info.html#a2f42fccc127d84cf6853058f501da3ec" title="extracts the signal from &quot;control info&quot;. " alt="" coords="537,5,716,46"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_air_frame.html#aedece175e676bc23a6ec44c8772e3738" title="Veins::AirFrame::setDuration" alt="" coords="531,71,722,97"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_air_frame.html#a49085838ee8057aa8532249b7c2dc3f4" title="Veins::AirFrame::setSignal" alt="" coords="537,121,716,148"/>
+<area shape="rect" id="node8" href="$class_base_phy_layer.html#aa7ec7ea0a36442f8bc0b0ab8d3a4afd2" title="Defines the scheduling priority of AirFrames. " alt="" coords="523,172,730,199"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_air_frame.html#a26fa4bd47eb08854f694220a6d719d2c" title="Veins::AirFrame::setProtocolId" alt="" coords="526,223,727,249"/>
+<area shape="rect" id="node10" href="$class_base_phy_layer.html#a3b24629e8306bac3186a94a3622ca5ef" title="Returns the identifier of the protocol this phy uses to send messages. " alt="" coords="531,273,723,300"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_air_frame.html#afc9fad9abb1e40cb558d3a1df40481ad" title="Veins::AirFrame::setId" alt="" coords="550,324,703,351"/>
+<area shape="rect" id="node12" href="$class_base_world_utility.html#a1c955c6c60dfa5b46a2bf683a20a84fe" title="Returns an Id for an AirFrame, at the moment simply an incremented long&#45;value. " alt="" coords="533,375,720,417"/>
+<area shape="rect" id="node13" href="$class_veins_1_1_air_frame.html#ac5cee514e9249028a4ba35f6a8255379" title="Veins::AirFrame::setChannel" alt="" coords="531,441,722,468"/>
+<area shape="rect" id="node14" href="$class_veins_1_1_radio.html#a6e7fa250ec1b1793c51931a7cb7ae914" title="Returns the channel the radio is currently set to. " alt="" coords="543,493,710,534"/>
+<area shape="rect" id="node5" href="$class_mac_to_phy_control_info.html#a5e04d8d4088109ccccb7c3fcdae526a7" title="Returns a pointer to the Signal of this ControlInfo. " alt="" coords="797,5,947,46"/>
+<area shape="rect" id="node16" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="1454,611,1637,637"/>
+<area shape="rect" id="node23" href="$class_veins_1_1_channel_access.html#ae370934ad7b1feacc1cb6bd6ad437198" title="Sends a message to all nics connected to this one. " alt="" coords="549,839,704,881"/>
+<area shape="rect" id="node24" href="$class_base_connection_manager.html#ae71cb544584cb71f96e7de50896577f8" title="Returns the ingates of all nics in range. " alt="" coords="788,774,956,815"/>
+<area shape="rect" id="node25" href="$class_veins_1_1_channel_access.html#a01c12c70034ec0583ee5f4e1ac0f683b" title="Calculates the propagation delay to the passed receiving nic. " alt="" coords="779,839,965,881"/>
+<area shape="rect" id="node26" href="$class_veins_1_1_channel_access.html#a130bfd04f4e40b490929f99d96cc1aef" title="Returns the host&#39;s mobility module. " alt="" coords="1025,655,1180,697"/>
+<area shape="rect" id="node27" href="$class_coord.html#ab6a7bfcc5c55e5d8edbc7c0cb5a11626" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="1045,813,1160,840"/>
+<area shape="rect" id="node29" href="$class_base_world_utility.html#af5916bab614d550530fd397573a7a04e" title="Speed of light in meters per second. " alt="" coords="1014,865,1191,906"/>
+<area shape="rect" id="node28" href="$class_coord.html#acc536671c07e1af44e6ad9676a6c39ad" title="Returns the length of this Coords position vector. " alt="" coords="1273,813,1373,840"/>
+</map>

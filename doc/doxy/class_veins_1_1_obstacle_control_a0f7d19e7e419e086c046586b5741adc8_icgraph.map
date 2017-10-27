@@ -1,0 +1,9 @@
+<map id="Veins::ObstacleControl::getAttenuationPerCut" name="Veins::ObstacleControl::getAttenuationPerCut">
+<area shape="rect" id="node2" href="$class_veins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title="Veins::ObstacleControl\l::addFromTypeAndShape" alt="" coords="211,37,381,78"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title="Veins::ObstacleControl\l::addFromXml" alt="" coords="217,102,375,143"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="Veins::TraCIScenarioManager\l::init_traci" alt="" coords="429,37,627,78"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="675,5,872,46"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_scenario_manager_launchd.html#a4c5b4cac20e03a2e333fd3e49a6a7e0e" title="Veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="675,70,872,111"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="920,5,1117,46"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_obstacle_control.html#a199ba1a4bd7eb58b6365fcaa5c0b1a90" title="Veins::ObstacleControl\l::initialize" alt="" coords="449,102,607,143"/>
+</map>

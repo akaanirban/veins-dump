@@ -1,0 +1,6 @@
+<map id="SimpleConstMapping::initializeArguments" name="SimpleConstMapping::initializeArguments">
+<area shape="rect" id="node2" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="215,5,332,32"/>
+<area shape="rect" id="node3" href="$class_simple_const_mapping.html#a3804bf19eee40fe09c626b7ca9e0885e" title="Utility method to fill add range of key entries in the time dimension to the key entry set..." alt="" coords="200,57,347,98"/>
+<area shape="rect" id="node4" href="$class_argument.html#a2ecb3b041b5b8721d6767531e4ac792a" title="Returns the time value of this argument. " alt="" coords="395,39,528,65"/>
+<area shape="rect" id="node5" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="395,89,528,116"/>
+</map>

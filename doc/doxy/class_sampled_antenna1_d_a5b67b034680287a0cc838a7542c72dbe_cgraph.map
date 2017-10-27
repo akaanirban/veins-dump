@@ -1,0 +1,9 @@
+<map id="SampledAntenna1D::SampledAntenna1D" name="SampledAntenna1D::SampledAntenna1D">
+<area shape="rect" id="node2" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="251,31,442,57"/>
+<area shape="rect" id="node5" href="$class_f_w_math.html#a38d2500887b49de2a2b5f8610f7ba6d1" title="Tests whether two doubles are close enough to be declared equal. " alt="" coords="291,81,402,108"/>
+<area shape="rect" id="node6" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="280,132,413,159"/>
+<area shape="rect" id="node7" href="$class_mapping.html#ab8906dfac661d5c6a0a35cf1744f06ed" title="Changes the value of the Mapping at the specified position. " alt="" coords="281,183,412,209"/>
+<area shape="rect" id="node8" href="$class_const_mapping.html#afabbd15bb8f50e45901f99633d0a47c9" title="Returns the value of this Mapping at the position specified by the passed Argument. " alt="" coords="264,233,429,260"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="491,5,685,32"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="529,56,647,83"/>
+</map>

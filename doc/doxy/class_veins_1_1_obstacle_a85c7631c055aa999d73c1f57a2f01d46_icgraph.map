@@ -1,0 +1,12 @@
+<map id="Veins::Obstacle::getBboxP1" name="Veins::Obstacle::getBboxP1">
+<area shape="rect" id="node2" href="$class_veins_1_1_obstacle_control.html#a206a6e9155d1b201841d0718e65ed30f" title="Veins::ObstacleControl::add" alt="" coords="240,77,427,104"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_obstacle_control.html#ae3bc0ffe81dd2ca3145636656f392204" title="calculate additional attenuation by obstacles, return signal strength " alt="" coords="255,131,412,173"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_obstacle_control.html#a1e5fceb8e8d9616622cc12551231c9d3" title="Veins::ObstacleControl\l::addFromXml" alt="" coords="485,5,643,46"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_obstacle_control.html#a5854911238d0af091d44f155bb768437" title="Veins::ObstacleControl\l::addFromTypeAndShape" alt="" coords="479,70,649,111"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_obstacle_control.html#a199ba1a4bd7eb58b6365fcaa5c0b1a90" title="Veins::ObstacleControl\l::initialize" alt="" coords="721,5,879,46"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="Veins::TraCIScenarioManager\l::init_traci" alt="" coords="701,70,899,111"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="947,37,1144,78"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_scenario_manager_launchd.html#a4c5b4cac20e03a2e333fd3e49a6a7e0e" title="Veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="947,102,1144,143"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1192,37,1389,78"/>
+<area shape="rect" id="node11" href="$class_simple_obstacle_shadowing.html#ab8f4e9c3b104f4b7fe18e4f275af79ac" title="Filters a specified Signal by adding an attenuation over time to the Signal. " alt="" coords="475,135,653,177"/>
+</map>

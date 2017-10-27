@@ -1,0 +1,4 @@
+<map id="NistErrorRate::getFec16QamBer" name="NistErrorRate::getFec16QamBer">
+<area shape="rect" id="node2" href="$class_nist_error_rate.html#a1808f09736f8a581305d5ff4a58e2555" title="Return BER of QAM16 at the given SNR. " alt="" coords="267,5,458,32"/>
+<area shape="rect" id="node3" href="$class_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="273,56,452,83"/>
+</map>

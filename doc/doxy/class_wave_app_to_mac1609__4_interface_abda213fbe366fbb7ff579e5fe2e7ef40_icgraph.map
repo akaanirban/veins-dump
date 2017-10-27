@@ -1,0 +1,4 @@
+<map id="WaveAppToMac1609_4Interface::changeServiceChannel" name="WaveAppToMac1609_4Interface::changeServiceChannel">
+<area shape="rect" id="node2" href="$class_tra_c_i_demo_r_s_u11p.html#a5795cb198952ecec4a7f241783a5f68f" title="this function is called upon receiving a WaveServiceAdvertisement " alt="" coords="267,5,461,32"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a47968501dcddf35c4a4a030945eeac2e" title="This will start the periodic advertising of the new service on the CCH. " alt="" coords="288,57,440,98"/>
+</map>

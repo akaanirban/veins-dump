@@ -1,0 +1,4 @@
+<map id="WaveShortMessage" name="WaveShortMessage">
+<area shape="rect" id="node3" href="$class_basic_safety_message.html" title="Class generated from veins/modules/messages/BasicSafetyMessage.msg:29 by nedtool. ..." alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node4" href="$class_wave_service_advertisment.html" title="Class generated from veins/modules/messages/WaveServiceAdvertisement.msg:29 by nedtool. " alt="" coords="177,155,353,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BaseMacLayer::createConstantMapping" name="BaseMacLayer::createConstantMapping">
+<area shape="rect" id="node2" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="262,5,453,32"/>
+<area shape="rect" id="node5" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="278,56,437,83"/>
+<area shape="rect" id="node6" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="266,107,449,133"/>
+<area shape="rect" id="node7" href="$class_mapping.html#ab8906dfac661d5c6a0a35cf1744f06ed" title="Changes the value of the Mapping at the specified position. " alt="" coords="292,157,423,184"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="501,5,696,32"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="540,81,657,108"/>
+</map>

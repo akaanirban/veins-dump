@@ -1,0 +1,17 @@
+<map id="NakagamiFading.cc" name="NakagamiFading.cc">
+<area shape="rect" id="node2" href="$_nakagami_fading_8h.html" title="veins/modules/analogueModel\l/NakagamiFading.h" alt="" coords="335,81,532,122"/>
+<area shape="rect" id="node3" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="5,353,147,394"/>
+<area shape="rect" id="node10" href="$_base_world_utility_8h.html" title="veins/base/modules\l/BaseWorldUtility.h" alt="" coords="172,353,311,394"/>
+<area shape="rect" id="node11" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="965,534,1107,575"/>
+<area shape="rect" id="node22" href="$_air_frame__m_8h.html" title="veins/base/messages\l/AirFrame_m.h" alt="" coords="504,171,653,213"/>
+<area shape="rect" id="node4" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="327,632,520,659"/>
+<area shape="rect" id="node7" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="364,451,527,477"/>
+<area shape="rect" id="node6" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="313,715,535,741"/>
+<area shape="rect" id="node8" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="113,541,292,568"/>
+<area shape="rect" id="node19" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="855,625,997,666"/>
+<area shape="rect" id="node23" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="698,262,840,303"/>
+<area shape="rect" id="node27" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="419,269,575,296"/>
+<area shape="rect" id="node25" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="862,353,1004,394"/>
+<area shape="rect" id="node26" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="811,443,953,485"/>
+<area shape="rect" id="node28" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="479,353,621,394"/>
+</map>

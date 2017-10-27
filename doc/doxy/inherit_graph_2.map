@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_antenna.html" title="The Antenna class is the base class of all antenna models. " alt="" coords="6,5,77,32"/>
+<area shape="rect" id="node2" href="$class_sampled_antenna1_d.html" title="This class represents an antenna whose gain is calculated from given samples in the horizontal plane..." alt="" coords="125,5,264,32"/>
+</map>

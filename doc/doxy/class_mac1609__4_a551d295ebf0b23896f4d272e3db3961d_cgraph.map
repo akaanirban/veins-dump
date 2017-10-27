@@ -1,0 +1,38 @@
+<map id="Mac1609_4::handleSelfMsg" name="Mac1609_4::handleSelfMsg">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#a67e75c8cc468f946f320b82d346a157b" title="Mac1609_4::channelBusySelf" alt="" coords="240,5,435,32"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#aae66bc58b1e0a8bb64accea786b20756" title="Set a state for the channel selecting operation. " alt="" coords="237,56,437,83"/>
+<area shape="rect" id="node4" href="$class_mac1609__4.html#a1c6717faaa6b882f1d68153a4a22ae62" title="Mac1609_4::channelIdle" alt="" coords="256,107,419,133"/>
+<area shape="rect" id="node7" href="$class_mac80211p_to_phy11p_interface.html#a91d9c16438fc0ec7c0e3b4907f178d4d" title="Mac80211pToPhy11pInterface\l::changeListeningFrequency" alt="" coords="238,158,437,199"/>
+<area shape="rect" id="node8" href="$class_mac1609__4.html#a1e687e9f5913bd5c619241f1905753ec" title="maps a application layer priority (up) to an EDCA access category. " alt="" coords="242,224,433,251"/>
+<area shape="rect" id="node9" href="$class_wave_short_message.html#abde0cdd30a56c19de40494b929591b24" title="WaveShortMessage::getUser\lPriority" alt="" coords="240,275,435,317"/>
+<area shape="rect" id="node10" href="$class_mac_pkt.html#a72fd30a2a508d10258c3fddd7167549d" title="MacPkt::setDestAddr" alt="" coords="263,341,411,368"/>
+<area shape="rect" id="node11" href="$class_l_address.html#a40f5a7df0a4b40a4729bbee11f7b073e" title="Broadcast address for L2 addresses. " alt="" coords="246,392,429,419"/>
+<area shape="rect" id="node12" href="$class_mac_pkt.html#adbb8351e4adc8c8bc3d8147a80d9917f" title="MacPkt::setSrcAddr" alt="" coords="267,443,407,469"/>
+<area shape="rect" id="node13" href="$class_wave_short_message.html#af0ec43b1fdafdf92ea10528dbb08e508" title="WaveShortMessage::dup" alt="" coords="253,493,422,520"/>
+<area shape="rect" id="node15" href="$class_phy_control_message.html#a5c0e12fc7deb76e7e4bf718a511df35b" title="PhyControlMessage::\lgetMcs" alt="" coords="263,545,411,586"/>
+<area shape="rect" id="node16" href="$_consts_phy_8h.html#a878241df607e21ba511c4c75aaa10f46" title="Given bandwidth and MCS returns datarate in bits per second. " alt="" coords="276,611,399,637"/>
+<area shape="rect" id="node17" href="$class_phy_control_message.html#acaa5b5657ca6e79214a54310a5771dd1" title="PhyControlMessage::\lgetTxPower_mW" alt="" coords="263,662,411,703"/>
+<area shape="rect" id="node18" href="$class_mac1609__4.html#abce6dae1623dde7c27d61a7e433c89a0" title="Mac1609_4::getFrameDuration" alt="" coords="497,728,698,755"/>
+<area shape="rect" id="node20" href="$class_mac1609__4.html#a85b16cc9c45d0a2ca674f2ee069a0b39" title="Mac1609_4::timeLeftInSlot" alt="" coords="248,829,427,856"/>
+<area shape="rect" id="node21" href="$class_mac_to_phy_interface.html#ad25abbad9aa16bdbf24bf1dd582b1c6f" title="Tells the BasePhyLayer to switch to the specified radio state. " alt="" coords="265,881,409,922"/>
+<area shape="rect" id="node22" href="$class_mac1609__4.html#a077b6bebe9a8f8d2a6fcce31c6af86a7" title="Mac1609_4::attachSignal" alt="" coords="253,779,422,805"/>
+<area shape="rect" id="node5" href="$class_mac1609__4.html#a41a9c4025c9840048f72a0d758230af8" title="Mac1609_4::timeLeftTillGuardOver" alt="" coords="485,81,709,108"/>
+<area shape="rect" id="node6" href="$class_mac1609__4.html#a621bca21c2e13d7312361fd86d648a2e" title="Mac1609_4::guardActive" alt="" coords="514,132,681,159"/>
+<area shape="rect" id="node14" href="$class_wave_short_message.html#adfb1c4241efa8e64e9e6a34808b86c95" title="WaveShortMessage::WaveShort\lMessage" alt="" coords="491,486,704,527"/>
+<area shape="rect" id="node19" href="$_consts_phy_8h.html#af8b23bdc646e596a8fdcfef1bd627bec" title="returns the number of databits per ofdm symbol " alt="" coords="814,677,901,704"/>
+<area shape="rect" id="node23" href="$class_mac1609__4.html#aa19fc16c9c52fbe7a896f725cc8a7883" title="Mac1609_4::createSignal" alt="" coords="513,855,682,881"/>
+<area shape="rect" id="node24" href="$class_base_mac_layer.html#a3da0a0f34a80528e6efcb5593a073c55" title="Creates a Mapping defined over time and frequency with constant power in a certain frequency band..." alt="" coords="763,953,952,994"/>
+<area shape="rect" id="node34" href="$class_signal.html#ad8c5494d0f7bd564bf14dc0c90f9a361" title="Sets the function representing the transmission power of the signal. " alt="" coords="758,728,957,755"/>
+<area shape="rect" id="node25" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="1015,768,1206,795"/>
+<area shape="rect" id="node36" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="766,880,949,907"/>
+<area shape="rect" id="node33" href="$class_mapping.html#ab8906dfac661d5c6a0a35cf1744f06ed" title="Changes the value of the Mapping at the specified position. " alt="" coords="1045,1123,1176,1149"/>
+<area shape="rect" id="node32" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="1044,1072,1177,1099"/>
+<area shape="rect" id="node37" href="$class_signal.html#a86e4ecdabd5ca03ede5e2c81c6b76002" title="Sets the function representing the bitrate of the signal. " alt="" coords="796,779,919,805"/>
+<area shape="rect" id="node28" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="1031,920,1190,947"/>
+<area shape="rect" id="node29" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="1007,971,1215,997"/>
+<area shape="rect" id="node31" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="1032,869,1189,896"/>
+<area shape="rect" id="node30" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="1287,996,1436,1023"/>
+<area shape="rect" id="node26" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="1264,768,1459,795"/>
+<area shape="rect" id="node27" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="1303,844,1420,871"/>
+<area shape="rect" id="node35" href="$class_signal.html#a594e926b3d8ff3330375c8850699ae76" title="Deletes the rcvPower mapping member because it became out&#45;dated. " alt="" coords="1006,717,1215,744"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MacToPhyInterface.h" name="MacToPhyInterface.h">
+<area shape="rect" id="node3" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="907,451,1100,477"/>
+<area shape="rect" id="node5" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="483,81,625,122"/>
+<area shape="rect" id="node20" href="$_channel_state_8h.html" title="veins/base/phyLayer\l/ChannelState.h" alt="" coords="773,353,915,394"/>
+<area shape="rect" id="node21" href="$_phy_utils_8h.html" title="veins/base/phyLayer\l/PhyUtils.h" alt="" coords="650,81,792,122"/>
+<area shape="rect" id="node4" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="903,533,1125,560"/>
+<area shape="rect" id="node7" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="374,171,516,213"/>
+<area shape="rect" id="node8" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="430,353,572,394"/>
+<area shape="rect" id="node19" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="483,262,625,303"/>
+<area shape="rect" id="node16" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="137,443,279,485"/>
+<area shape="rect" id="node22" href="$_analogue_model_8h.html" title="veins/base/phyLayer\l/AnalogueModel.h" alt="" coords="929,171,1071,213"/>
+<area shape="rect" id="node23" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="1172,269,1335,296"/>
+<area shape="rect" id="node24" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="1193,360,1372,387"/>
+</map>

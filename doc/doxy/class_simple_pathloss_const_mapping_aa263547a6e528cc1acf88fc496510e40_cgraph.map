@@ -1,0 +1,9 @@
+<map id="SimplePathlossConstMapping::getValue" name="SimplePathlossConstMapping::getValue">
+<area shape="rect" id="node2" href="$class_argument.html#a0e9998020362333915af80cde79df9e6" title="Returns true if this Argument has a value for the passed Dimension. " alt="" coords="267,5,413,32"/>
+<area shape="rect" id="node3" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="265,56,415,83"/>
+<area shape="rect" id="node4" href="$class_argument.html#a137a911de0281cbb519fe13727aa0813" title="Returns the value for the specified dimension. " alt="" coords="261,107,419,133"/>
+<area shape="rect" id="node8" href="$class_base_world_utility.html#af5916bab614d550530fd397573a7a04e" title="Speed of light in meters per second. " alt="" coords="251,158,429,199"/>
+<area shape="rect" id="node5" href="$class_argument.html#ae4b61830a991f8911978c30a67dd2da6" title="Returns an iterator to the Argument value for the passed Dimension. " alt="" coords="504,81,611,108"/>
+<area shape="rect" id="node7" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="478,132,637,159"/>
+<area shape="rect" id="node6" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="685,81,803,108"/>
+</map>

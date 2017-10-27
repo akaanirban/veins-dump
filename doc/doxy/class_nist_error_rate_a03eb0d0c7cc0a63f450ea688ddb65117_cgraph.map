@@ -1,0 +1,4 @@
+<map id="NistErrorRate::getFecBpskBer" name="NistErrorRate::getFecBpskBer">
+<area shape="rect" id="node2" href="$class_nist_error_rate.html#a18175d82399d69438e554cb95c7604a3" title="Return BER of BPSK at the given SNR. " alt="" coords="253,5,432,32"/>
+<area shape="rect" id="node3" href="$class_nist_error_rate.html#aa2df206d0e5cc31a3c3587438c7d5b74" title="Return the coded BER for the given p and b. " alt="" coords="253,56,432,83"/>
+</map>

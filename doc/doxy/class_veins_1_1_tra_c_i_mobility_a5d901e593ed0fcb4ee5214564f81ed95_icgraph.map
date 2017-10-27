@@ -1,0 +1,10 @@
+<map id="Veins::TraCIMobility::getExternalId" name="Veins::TraCIMobility::getExternalId">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_mobility.html#a690ad24a231dff3f3d929e3738db9b69" title="Veins::TraCIMobility\l::getVehicleCommandInterface" alt="" coords="195,106,397,147"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="217,187,375,229"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#aa6a5eb1c331615fa7d87bcec1d816f8c" title="Initialization of the module and some variables. " alt="" coords="445,23,597,65"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_mobility.html#a0f6b3ea2a2e2dc2a308c8db11bc09172" title="Called upon arrival of a self messages. " alt="" coords="451,89,592,130"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_test_app.html#a581c6c99b8dcbbdadadc4e69a3febde7" title="Initialization of the module and some variables. " alt="" coords="449,154,594,195"/>
+<area shape="rect" id="node4" href="$class_my_veins_app.html#a24d305fc2a809f2fa325343ee74cc185" title="Initialization of the module and some variables. " alt="" coords="654,5,805,32"/>
+<area shape="rect" id="node5" href="$class_tra_c_i_demo11p.html#a0f070d06bf6eafef5bf85063f963a13d" title="Initialization of the module and some variables. " alt="" coords="646,56,813,83"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="449,219,594,261"/>
+</map>

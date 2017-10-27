@@ -1,0 +1,13 @@
+<map id="Veins::TraCICommandInterface::genericGetStringList" name="Veins::TraCICommandInterface::genericGetStringList">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_command_interface.html#a0a96e941c026a81d8de8de348002fd55" title="Veins::TraCICommandInterface\l::getJunctionIds" alt="" coords="262,5,469,46"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_tra_c_i_command_interface.html#a4276dd21a299f0d08f6f43252aad4601" title="Veins::TraCICommandInterface\l::getLaneIds" alt="" coords="262,70,469,111"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_tra_c_i_command_interface.html#a77573e8424c15196246040763be4a926" title="Veins::TraCICommandInterface\l::getPolygonIds" alt="" coords="262,135,469,177"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_command_interface.html#a68b81d22921e5d51e810fa7f56b59195" title="Veins::TraCICommandInterface\l::getRouteIds" alt="" coords="518,198,725,239"/>
+<area shape="rect" id="node12" href="$class_veins_1_1_tra_c_i_command_interface.html#a66890d755c53a0fd4649b6bd852e102f" title="Veins::TraCICommandInterface\l::getVehicleTypeIds" alt="" coords="518,263,725,305"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="543,67,700,109"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="799,67,945,109"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="Veins::TraCIScenarioManager\l::init_traci" alt="" coords="523,133,720,174"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="773,198,971,239"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_tra_c_i_scenario_manager_launchd.html#a4c5b4cac20e03a2e333fd3e49a6a7e0e" title="Veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="773,133,971,174"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="1019,198,1216,239"/>
+</map>

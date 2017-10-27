@@ -1,0 +1,5 @@
+<map id="BaseWaveApplLayer::handlePositionUpdate" name="BaseWaveApplLayer::handlePositionUpdate">
+<area shape="rect" id="node2" href="$class_my_veins_app.html#a80b955bc5c096e11c3cb03eda4604854" title="this function is called every time the vehicle receives a position update signal " alt="" coords="213,5,403,46"/>
+<area shape="rect" id="node3" href="$class_tra_c_i_demo11p.html#ad9a9d4f6da6e486797c930f6f6df5ab1" title="this function is called every time the vehicle receives a position update signal " alt="" coords="206,70,410,111"/>
+<area shape="rect" id="node4" href="$class_base_wave_appl_layer.html#a10f76fdfcff0447279afafd1533b185b" title="BaseWaveApplLayer::\lreceiveSignal" alt="" coords="232,135,384,177"/>
+</map>

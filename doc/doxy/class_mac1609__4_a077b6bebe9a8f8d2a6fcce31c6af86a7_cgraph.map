@@ -1,0 +1,19 @@
+<map id="Mac1609_4::attachSignal" name="Mac1609_4::attachSignal">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#abce6dae1623dde7c27d61a7e433c89a0" title="Mac1609_4::getFrameDuration" alt="" coords="225,56,426,83"/>
+<area shape="rect" id="node4" href="$class_mac1609__4.html#aa19fc16c9c52fbe7a896f725cc8a7883" title="Mac1609_4::createSignal" alt="" coords="241,183,410,209"/>
+<area shape="rect" id="node3" href="$_consts_phy_8h.html#af8b23bdc646e596a8fdcfef1bd627bec" title="returns the number of databits per ofdm symbol " alt="" coords="531,5,618,32"/>
+<area shape="rect" id="node5" href="$class_base_mac_layer.html#a3da0a0f34a80528e6efcb5593a073c55" title="Creates a Mapping defined over time and frequency with constant power in a certain frequency band..." alt="" coords="480,281,669,322"/>
+<area shape="rect" id="node15" href="$class_signal.html#ad8c5494d0f7bd564bf14dc0c90f9a361" title="Sets the function representing the transmission power of the signal. " alt="" coords="475,56,674,83"/>
+<area shape="rect" id="node6" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="733,96,923,123"/>
+<area shape="rect" id="node17" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="483,208,666,235"/>
+<area shape="rect" id="node14" href="$class_mapping.html#ab8906dfac661d5c6a0a35cf1744f06ed" title="Changes the value of the Mapping at the specified position. " alt="" coords="763,451,893,477"/>
+<area shape="rect" id="node13" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="761,400,895,427"/>
+<area shape="rect" id="node18" href="$class_signal.html#a86e4ecdabd5ca03ede5e2c81c6b76002" title="Sets the function representing the bitrate of the signal. " alt="" coords="513,107,636,133"/>
+<area shape="rect" id="node9" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="749,248,907,275"/>
+<area shape="rect" id="node10" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="724,299,932,325"/>
+<area shape="rect" id="node12" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="749,197,907,224"/>
+<area shape="rect" id="node11" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="1004,324,1153,351"/>
+<area shape="rect" id="node7" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="981,96,1176,123"/>
+<area shape="rect" id="node8" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="1020,172,1137,199"/>
+<area shape="rect" id="node16" href="$class_signal.html#a594e926b3d8ff3330375c8850699ae76" title="Deletes the rcvPower mapping member because it became out&#45;dated. " alt="" coords="723,45,933,72"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BaseLayer.h" name="BaseLayer.h">
+<area shape="rect" id="node2" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="363,427,555,453"/>
+<area shape="rect" id="node5" href="$_battery_access_8h.html" title="veins/base/modules\l/BatteryAccess.h" alt="" coords="331,81,470,122"/>
+<area shape="rect" id="node10" href="$_passed_message_8h.html" title="veins/base/utils/PassedMessage.h" alt="" coords="587,352,811,379"/>
+<area shape="rect" id="node4" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="359,501,581,528"/>
+<area shape="rect" id="node6" href="$_base_module_8h.html" title="veins/base/modules\l/BaseModule.h" alt="" coords="290,262,429,303"/>
+<area shape="rect" id="node9" href="$_base_battery_8h.html" title="veins/base/modules\l/BaseBattery.h" alt="" coords="183,171,322,213"/>
+<area shape="rect" id="node8" href="$_host_state_8h.html" title="veins/base/utils/HostState.h" alt="" coords="29,352,215,379"/>
+</map>

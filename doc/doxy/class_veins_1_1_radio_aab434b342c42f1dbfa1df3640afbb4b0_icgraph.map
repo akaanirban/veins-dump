@@ -1,0 +1,4 @@
+<map id="Veins::Radio::switchTo" name="Veins::Radio::switchTo">
+<area shape="rect" id="node2" href="$class_base_phy_layer.html#a5170b3aadae25dc6b9e61974076be04b" title="Tells the BasePhyLayer to switch to the specified radio state. " alt="" coords="214,12,413,39"/>
+<area shape="rect" id="node3" href="$class_phy_layer80211p.html#ae743948ffdb784d6982e8011173ccbad" title="Tells the BasePhyLayer to switch to the specified radio state. " alt="" coords="461,5,640,46"/>
+</map>

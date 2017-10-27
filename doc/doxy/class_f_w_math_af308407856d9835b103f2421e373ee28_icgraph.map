@@ -1,0 +1,7 @@
+<map id="FWMath::dBm2mW" name="FWMath::dBm2mW">
+<area shape="rect" id="node2" href="$class_sampled_antenna1_d.html#a20a081921a89d0f9f448b028bbf29d00" title="Calculates this antenna&#39;s gain based on the direction the signal is coming from/sent in..." alt="" coords="193,5,383,32"/>
+<area shape="rect" id="node3" href="$class_base_phy_layer.html#a08704deaf03b73c8eda67cc60e670853" title="OMNeT++ initialization function. " alt="" coords="207,56,369,83"/>
+<area shape="rect" id="node5" href="$class_log_normal_shadowing.html#ab81e4e559d16d59321fe0dced4a45806" title="Returns a random log normal distributed gain factor. " alt="" coords="207,107,369,149"/>
+<area shape="rect" id="node4" href="$class_phy_layer80211p.html#aa3a10ad37436ef978aa9a0874b0da561" title="This is needed to circumvent a bug in MiXiM that allows different header length interpretations for r..." alt="" coords="433,56,607,83"/>
+<area shape="rect" id="node6" href="$class_log_normal_shadowing.html#abecf1f338dc41facc038dbcd8a863ccd" title="Calculates shadowing loss based on a normal gaussian function. " alt="" coords="445,107,595,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="getOfdmDatarate" name="getOfdmDatarate">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="177,5,359,32"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#afdc6ce954965812b89c8daed1f0aa876" title="Change the default MCS the NIC card is using. " alt="" coords="195,56,341,83"/>
+</map>

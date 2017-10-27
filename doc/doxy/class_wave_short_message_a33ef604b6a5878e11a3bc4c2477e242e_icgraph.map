@@ -1,0 +1,7 @@
+<map id="WaveShortMessage::setChannelNumber" name="WaveShortMessage::setChannelNumber">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#ac93bf319ea2065fd7e8c041697e49919" title="Handle messages from upper layer. " alt="" coords="269,5,464,32"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a5a614f6db1fc5697214d7bb127112fd9" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="291,57,443,98"/>
+<area shape="rect" id="node4" href="$class_base_wave_appl_layer.html#a830e58e379655c6d24319c16f8db5e3d" title="handle self messages " alt="" coords="512,57,664,98"/>
+<area shape="rect" id="node5" href="$class_my_veins_app.html#ab1473243dc75114a7217e96caadd3f6a" title="handle self messages " alt="" coords="719,39,910,65"/>
+<area shape="rect" id="node6" href="$class_tra_c_i_demo11p.html#a7e6276d83c8f4717d3e014560885a9cc" title="handle self messages " alt="" coords="712,89,917,116"/>
+</map>

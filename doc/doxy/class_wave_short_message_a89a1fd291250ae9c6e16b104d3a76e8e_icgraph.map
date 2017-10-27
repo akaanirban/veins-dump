@@ -1,0 +1,7 @@
+<map id="WaveShortMessage::setSerial" name="WaveShortMessage::setSerial">
+<area shape="rect" id="node2" href="$class_tra_c_i_demo11p.html#a60a8abbb6f86cfbeabef68b1e415721e" title="this function is called upon receiving a WaveShortMessage " alt="" coords="254,5,421,32"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a5a614f6db1fc5697214d7bb127112fd9" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="261,57,413,98"/>
+<area shape="rect" id="node4" href="$class_base_wave_appl_layer.html#a830e58e379655c6d24319c16f8db5e3d" title="handle self messages " alt="" coords="469,57,621,98"/>
+<area shape="rect" id="node5" href="$class_my_veins_app.html#ab1473243dc75114a7217e96caadd3f6a" title="handle self messages " alt="" coords="677,39,867,65"/>
+<area shape="rect" id="node6" href="$class_tra_c_i_demo11p.html#a7e6276d83c8f4717d3e014560885a9cc" title="handle self messages " alt="" coords="669,89,875,116"/>
+</map>

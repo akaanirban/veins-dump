@@ -1,0 +1,4 @@
+<map id="ConstMapping::ConstMapping" name="ConstMapping::ConstMapping">
+<area shape="rect" id="node2" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="253,5,448,32"/>
+<area shape="rect" id="node3" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="292,56,409,83"/>
+</map>

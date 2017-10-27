@@ -1,0 +1,10 @@
+<map id="fail" name="fail">
+<area shape="rect" id="node2" href="$asserts_8h.html#a49894dc35526035a4ce26b9ab593102e" title="Asserts that the passed value is close to the passed expected value. " alt="" coords="110,5,202,32"/>
+<area shape="rect" id="node5" href="$asserts_8h.html#a600bdbb498d1f3c97126ce600fd5e48c" title="Asserts that the passed value is equal to the passed expected value. " alt="" coords="111,56,201,83"/>
+<area shape="rect" id="node6" href="$asserts_8h.html#ae2c31f2691cef4d630fa732ccd528024" title="Asserts that the passed value is equal to the passed expected value. " alt="" coords="94,107,218,133"/>
+<area shape="rect" id="node7" href="$asserts_8h.html#a38bf3c92a02acd42ddbccd053dabe2e6" title="Asserts that the passed value is not equal to the passed expected value. " alt="" coords="100,157,212,184"/>
+<area shape="rect" id="node8" href="$asserts_8h.html#afce42beebc712b8f8a0aa98c3b6818a9" title="Asserts that the passed boolean value is true. " alt="" coords="114,208,198,235"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="267,49,424,90"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="473,49,618,90"/>
+<area shape="rect" id="node9" href="$asserts_8h.html#aebcb1171586edc207f337d2f73fba5b7" title="Asserts that the passed boolean value is false. " alt="" coords="300,208,391,235"/>
+</map>

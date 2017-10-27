@@ -1,0 +1,24 @@
+<map id="NakagamiFading::filterSignal" name="NakagamiFading::filterSignal">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="261,5,440,32"/>
+<area shape="rect" id="node3" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="261,56,440,83"/>
+<area shape="rect" id="node5" href="$class_concat_const_mapping.html#a417cebabd88daa682ea0f3cae877eae2" title="Returns a pointer of a new Iterator which is able to iterate over this Mapping. " alt="" coords="277,107,425,149"/>
+<area shape="rect" id="node9" href="$class_const_mapping_iterator.html#ad4419c259e747867f003d07d62d4259f" title="Returns the value of the Mapping at the current position. " alt="" coords="277,173,424,214"/>
+<area shape="rect" id="node10" href="$class_const_mapping_iterator.html#a047e853613d5a19ff34526d0cff8fcf9" title="Returns the current position of the iterator. " alt="" coords="277,238,424,279"/>
+<area shape="rect" id="node11" href="$class_const_mapping_iterator.html#ad4bac7233c154b7086c6124d2e21be49" title="Returns true if the iterator has a next value it can iterate to on a call to &quot;next()&quot;. " alt="" coords="277,303,424,345"/>
+<area shape="rect" id="node12" href="$class_const_mapping_iterator.html#afdafa6870cd19b3d35674a7bc777585d" title="Iterates to the next position of the Mapping. " alt="" coords="277,369,424,410"/>
+<area shape="rect" id="node13" href="$class_f_w_math.html#af1390153a78142efb6af6225034f954f" title="Convert a mW value to dBm. " alt="" coords="281,435,420,461"/>
+<area shape="rect" id="node14" href="$class_coord.html#ab6a7bfcc5c55e5d8edbc7c0cb5a11626" title="Returns the distance to Coord &#39;a&#39;. " alt="" coords="293,485,408,512"/>
+<area shape="rect" id="node16" href="$class_signal.html#a392ecf1a624edfb90243e7227370a772" title="Returns the function representing the transmission power of the signal. " alt="" coords="251,536,450,563"/>
+<area shape="rect" id="node17" href="$class_const_mapping.html#acc1559cf5741bec3aa6422e94c5b9cce" title="Returns this Mappings domain as DimensionSet. " alt="" coords="243,587,458,613"/>
+<area shape="rect" id="node18" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="253,637,448,664"/>
+<area shape="rect" id="node19" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="531,701,680,728"/>
+<area shape="rect" id="node20" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="247,739,455,765"/>
+<area shape="rect" id="node22" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="259,789,442,816"/>
+<area shape="rect" id="node23" href="$class_signal.html#a0beeef0f27c33145a0fca521df1c5f5c" title="Adds a function representing an attenuation of the signal. " alt="" coords="274,840,427,867"/>
+<area shape="rect" id="node4" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="526,56,685,83"/>
+<area shape="rect" id="node6" href="$class_const_mapping.html#a5ff3a15fe6d536fa7a26a3fe1ff1b274" title="Returns a pointer of a new Iterator which is able to iterate over this Mapping. " alt="" coords="513,107,698,149"/>
+<area shape="rect" id="node7" href="$class_concat_const_mapping.html#a575967e48547622110a29a7b90f3c71a" title="Returns the concatenated Mapping. " alt="" coords="507,173,703,214"/>
+<area shape="rect" id="node8" href="$class_mapping_utils.html#a45c56f1ea72b2f8b278d1016ac6228df" title="MappingUtils::applyElement\lWiseOperator" alt="" coords="753,173,938,214"/>
+<area shape="rect" id="node15" href="$class_coord.html#acc536671c07e1af44e6ad9676a6c39ad" title="Returns the length of this Coords position vector. " alt="" coords="555,485,655,512"/>
+<area shape="rect" id="node21" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="547,764,664,791"/>
+</map>

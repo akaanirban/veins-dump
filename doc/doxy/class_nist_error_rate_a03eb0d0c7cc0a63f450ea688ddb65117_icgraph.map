@@ -1,0 +1,6 @@
+<map id="NistErrorRate::getFecBpskBer" name="NistErrorRate::getFecBpskBer">
+<area shape="rect" id="node2" href="$class_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="NistErrorRate::getChunkSuccessRate" alt="" coords="253,5,499,32"/>
+<area shape="rect" id="node3" href="$class_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="547,5,720,32"/>
+<area shape="rect" id="node4" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="768,5,981,32"/>
+<area shape="rect" id="node5" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="1030,5,1253,32"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="TraCIDemoRSU11p" name="TraCIDemoRSU11p">
+<area shape="rect" id="node2" href="$class_base_wave_appl_layer.html" title="WAVE application layer base class. " alt="" coords="2085,468,2229,495"/>
+<area shape="rect" id="node3" href="$class_base_appl_layer.html" title="Base class for the application layer. " alt="" coords="1825,369,1935,396"/>
+<area shape="rect" id="node4" href="$class_base_layer.html" title="A very simple layer template. " alt="" coords="1422,259,1506,285"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_battery_access.html" title="Veins::BatteryAccess" alt="" coords="1056,227,1205,253"/>
+<area shape="rect" id="node15" href="$class_base_mobility.html" title="Base module for all mobility modules. " alt="" coords="1415,549,1513,576"/>
+<area shape="rect" id="node6" href="$class_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="306,316,401,343"/>
+<area shape="rect" id="node10" href="$class_base_battery.html" title="Base class for any power source. " alt="" coords="681,316,775,343"/>
+<area shape="rect" id="node17" href="$class_base_world_utility.html" title="Provides information and utility methods for the whole simulation. " alt="" coords="1071,656,1191,683"/>
+<area shape="rect" id="node18" href="$class_veins_1_1_tra_c_i_scenario_manager.html" title="Veins::TraCIScenarioManager" alt="" coords="1365,743,1563,769"/>
+<area shape="rect" id="node22" href="$class_base_connection_manager.html" title="Module to control the channel and handle all connection related stuff. " alt="" coords="1047,809,1215,836"/>
+<area shape="rect" id="node26" href="$class_veins_1_1_annotation_manager.html" title="Veins::AnnotationManager" alt="" coords="443,172,618,199"/>
+<area shape="rect" id="node9" href="$classsimsignalwrap__t.html" title="Helper function to initialize signal change identifier on use and not on initializing static sections..." alt="" coords="6,308,122,335"/>
+<area shape="rect" id="node14" href="$class_veins_1_1_tra_c_i_mobility.html" title="Veins::TraCIMobility" alt="" coords="1809,713,1951,740"/>
+<area shape="rect" id="node11" href="$class_passed_message.html" title="PassedMessage" alt="" coords="861,272,979,299"/>
+<area shape="rect" id="node13" href="$class_coord.html" title="Class for storing 3D coordinates. " alt="" coords="699,591,757,617"/>
+<area shape="rect" id="node16" href="$class_move.html" title="Class to store object position and movement. " alt="" coords="1103,549,1158,576"/>
+<area shape="rect" id="node19" href="$class_veins_1_1_tra_c_i_command_interface.html" title="Veins::TraCICommandInterface" alt="" coords="1027,985,1234,1012"/>
+<area shape="rect" id="node24" href="$class_veins_1_1_tra_c_i_command_interface_1_1_vehicle.html" title="Veins::TraCICommandInterface\l::Vehicle" alt="" coords="1361,873,1567,914"/>
+<area shape="rect" id="node20" href="$class_veins_1_1_tra_c_i_connection.html" title="Veins::TraCIConnection" alt="" coords="647,924,809,951"/>
+<area shape="rect" id="node21" href="$struct_veins_1_1_tra_c_i_coord.html" title="Coord equivalent for storing TraCI coordinates. " alt="" coords="288,924,419,951"/>
+<area shape="rect" id="node23" href="$class_base_connection_manager_1_1_grid_coord.html" title="Represents a position inside a grid. " alt="" coords="644,806,812,847"/>
+<area shape="rect" id="node25" href="$class_veins_1_1_tra_c_i_mobility_1_1_statistics.html" title="Veins::TraCIMobility\l::Statistics" alt="" coords="1393,677,1535,718"/>
+<area shape="rect" id="node27" href="$class_wave_app_to_mac1609__4_interface.html" title="Interface between WaveApplication Layer and Mac1609_4. " alt="" coords="1774,1093,1986,1120"/>
+</map>

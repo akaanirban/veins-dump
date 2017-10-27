@@ -1,0 +1,10 @@
+<map id="ConstMapping::getValue" name="ConstMapping::getValue">
+<area shape="rect" id="node2" href="$class_sampled_antenna1_d.html#a20a081921a89d0f9f448b028bbf29d00" title="Calculates this antenna&#39;s gain based on the direction the signal is coming from/sent in..." alt="" coords="222,5,413,32"/>
+<area shape="rect" id="node3" href="$class_concat_const_mapping.html#a28448679df346f8baf0f889bc0ab522a" title="Returns the value of this Mapping at the position specified by the passed Argument. " alt="" coords="243,57,391,98"/>
+<area shape="rect" id="node9" href="$class_sampled_antenna1_d.html#a5b67b034680287a0cc838a7542c72dbe" title="Constructor for the sampled antenna. " alt="" coords="219,122,416,163"/>
+<area shape="rect" id="node4" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="465,5,679,32"/>
+<area shape="rect" id="node6" href="$class_s_n_r_threshold_decider.html#ace13845f43c5328cea40eb00c59af2b3" title="Processes a new Signal. " alt="" coords="495,57,649,98"/>
+<area shape="rect" id="node7" href="$class_base_decider.html#a6a480f87157d0509c0c1fccf94ea9fef" title="Processes a new Signal. " alt="" coords="465,123,679,149"/>
+<area shape="rect" id="node5" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="729,5,951,32"/>
+<area shape="rect" id="node8" href="$class_base_decider.html#a273892d7b0c9874e4efe3c7755aa7a17" title="Processes an AirFrame given by the PhyLayer. " alt="" coords="747,123,933,149"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LAddress::L2BROADCAST" name="LAddress::L2BROADCAST">
+<area shape="rect" id="node2" href="$class_mac1609__4.html#a2909c6cda932d7e69db061969744ac70" title="Handle messages from lower layer. " alt="" coords="237,5,432,32"/>
+<area shape="rect" id="node3" href="$class_mac1609__4.html#a551d295ebf0b23896f4d272e3db3961d" title="Handle self messages such as timers. " alt="" coords="243,56,426,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Veins::traci2omnet_functor" name="Veins::traci2omnet_functor">
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_connection.html" title="Veins::TraCIConnection" alt="" coords="179,117,341,144"/>
+<area shape="rect" id="node4" href="$struct_veins_1_1_tra_c_i_coord.html" title="Coord equivalent for storing TraCI coordinates. " alt="" coords="195,5,325,32"/>
+</map>

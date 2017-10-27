@@ -1,0 +1,4 @@
+<map id="BasicSafetyMessage" name="BasicSafetyMessage">
+<area shape="rect" id="node2" href="$class_wave_short_message.html" title="Class generated from veins/modules/messages/WaveShortMessage.msg:21 by nedtool. " alt="" coords="5,83,144,109"/>
+<area shape="rect" id="node4" href="$class_coord.html" title="Class for storing 3D coordinates. " alt="" coords="169,83,225,109"/>
+</map>

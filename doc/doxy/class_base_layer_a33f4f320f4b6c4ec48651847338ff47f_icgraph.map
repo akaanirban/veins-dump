@@ -1,0 +1,18 @@
+<map id="BaseLayer::recordPacket" name="BaseLayer::recordPacket">
+<area shape="rect" id="node2" href="$class_base_layer.html#a8039dac8d02052c97c1fcc209910fdde" title="Called every time a message arrives. " alt="" coords="247,5,430,32"/>
+<area shape="rect" id="node3" href="$class_base_layer.html#a6d01a0f56978740d7617c2e338858cc3" title="Sends a control message to a lower layer. " alt="" coords="241,56,437,83"/>
+<area shape="rect" id="node4" href="$class_base_layer.html#aa1190a06fb4dfb15d8ff001468335dc8" title="Sends a control message to an upper layer. " alt="" coords="249,107,428,133"/>
+<area shape="rect" id="node6" href="$class_base_appl_layer.html#a08d91ffcf2598556db4dd3ba845e4979" title="Sends a message delayed to the lower layer. " alt="" coords="225,157,453,184"/>
+<area shape="rect" id="node9" href="$class_base_layer.html#a1873d6e3fc6d92cf8482b39f1c5ac6c8" title="Sends a message to the lower layer. " alt="" coords="261,212,416,239"/>
+<area shape="rect" id="node15" href="$class_base_layer.html#adbf061566606041db811b519f0400ed5" title="Sends a message to the upper layer. " alt="" coords="270,329,407,356"/>
+<area shape="rect" id="node5" href="$class_base_mac_layer.html#a796d456d593dfab3188b37e506dd76a8" title="Handle control messages from lower layer. " alt="" coords="514,81,705,122"/>
+<area shape="rect" id="node7" href="$class_base_wave_appl_layer.html#adf74cdd42965566a319f343f1481fd0d" title="overloaded for error handling and stats recording purposes " alt="" coords="533,146,685,187"/>
+<area shape="rect" id="node8" href="$class_tra_c_i_demo_r_s_u11p.html#aaa74f9686813bb7f09a293b6572766fb" title="this function is called upon receiving a WaveShortMessage " alt="" coords="765,153,960,180"/>
+<area shape="rect" id="node10" href="$class_base_mac_layer.html#a6de2ca07018de313a7147a03e6d77bff" title="Handle messages comming from the network layer. " alt="" coords="502,212,717,239"/>
+<area shape="rect" id="node11" href="$class_base_wave_appl_layer.html#a5d3b59aaaac90a48bc022d3ae5700375" title="overloaded for error handling and stats recording purposes " alt="" coords="533,263,685,305"/>
+<area shape="rect" id="node12" href="$class_base_wave_appl_layer.html#a830e58e379655c6d24319c16f8db5e3d" title="handle self messages " alt="" coords="787,263,939,305"/>
+<area shape="rect" id="node13" href="$class_my_veins_app.html#ab1473243dc75114a7217e96caadd3f6a" title="handle self messages " alt="" coords="1015,245,1206,272"/>
+<area shape="rect" id="node14" href="$class_tra_c_i_demo11p.html#a7e6276d83c8f4717d3e014560885a9cc" title="handle self messages " alt="" coords="1008,296,1213,323"/>
+<area shape="rect" id="node16" href="$class_base_mac_layer.html#a413375cec02b990a521b62086a02264c" title="If message arrives from lower layer, check whether it is for us. " alt="" coords="502,329,717,356"/>
+<area shape="rect" id="node17" href="$class_mac1609__4.html#a2909c6cda932d7e69db061969744ac70" title="Handle messages from lower layer. " alt="" coords="512,380,707,407"/>
+</map>

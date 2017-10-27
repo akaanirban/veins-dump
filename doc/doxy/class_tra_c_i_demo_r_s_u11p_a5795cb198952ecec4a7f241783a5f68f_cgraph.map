@@ -1,0 +1,5 @@
+<map id="TraCIDemoRSU11p::onWSA" name="TraCIDemoRSU11p::onWSA">
+<area shape="rect" id="node2" href="$class_wave_short_message.html#ab5790460483faa5713077d73007b1033" title="WaveShortMessage::getPsid" alt="" coords="259,5,451,32"/>
+<area shape="rect" id="node3" href="$class_wave_app_to_mac1609__4_interface.html#abda213fbe366fbb7ff579e5fe2e7ef40" title="WaveAppToMac1609_4Interface\l::changeServiceChannel" alt="" coords="249,57,461,98"/>
+<area shape="rect" id="node4" href="$class_wave_service_advertisment.html#ac6bbaf30681a97ed2eb37c16b3e02eb1" title="WaveServiceAdvertisment\l::getTargetChannel" alt="" coords="266,122,443,163"/>
+</map>

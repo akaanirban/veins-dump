@@ -1,0 +1,9 @@
+<map id="SNRThresholdDecider.h" name="SNRThresholdDecider.h">
+<area shape="rect" id="node2" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="37,443,229,469"/>
+<area shape="rect" id="node5" href="$_base_decider_8h.html" title="veins/base/phyLayer\l/BaseDecider.h" alt="" coords="70,81,212,122"/>
+<area shape="rect" id="node4" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="22,517,244,544"/>
+<area shape="rect" id="node6" href="$_decider_8h.html" title="veins/base/phyLayer\l/Decider.h" alt="" coords="182,171,324,213"/>
+<area shape="rect" id="node7" href="$_decider_to_phy_interface_8h.html" title="veins/base/phyLayer\l/DeciderToPhyInterface.h" alt="" coords="476,353,647,394"/>
+<area shape="rect" id="node10" href="$_channel_sense_request__m_8h.html" title="veins/base/messages\l/ChannelSenseRequest_m.h" alt="" coords="221,262,411,303"/>
+<area shape="rect" id="node11" href="$_channel_state_8h.html" title="veins/base/phyLayer\l/ChannelState.h" alt="" coords="185,353,327,394"/>
+</map>

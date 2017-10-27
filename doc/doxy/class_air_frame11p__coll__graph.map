@@ -1,0 +1,10 @@
+<map id="AirFrame11p" name="AirFrame11p">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html" title="Class generated from veins/base/messages/AirFrame.msg:35 by nedtool. " alt="" coords="102,475,217,501"/>
+<area shape="rect" id="node4" href="$class_signal.html" title="The signal class stores the physical representation of the signal of an AirFrame. ..." alt="" coords="131,384,189,411"/>
+<area shape="rect" id="node5" href="$class_mapping.html" title="Represents a changeable mapping (mathematical function) from at least time to Argument::mapped_type. " alt="" coords="5,272,75,299"/>
+<area shape="rect" id="node6" href="$class_const_mapping.html" title="Represents a not changeable mapping (mathematical function) from domain with at least the time to a A..." alt="" coords="95,173,201,200"/>
+<area shape="rect" id="node9" href="$class_concat_const_mapping.html" title="Defines it values by concatenating one or more Mappings to a reference Mapping. " alt="" coords="189,265,336,306"/>
+<area shape="rect" id="node7" href="$class_dimension_set.html" title="Represents a set of dimensions which is used to define over which dimensions a mapping is defined (th..." alt="" coords="96,83,200,109"/>
+<area shape="rect" id="node10" href="$class_p_o_a.html" title="Container class used to attach data to Airframe s which are needed by the receiver for antenna gain c..." alt="" coords="285,384,336,411"/>
+<area shape="rect" id="node11" href="$class_coord.html" title="Class for storing 3D coordinates. " alt="" coords="361,272,417,299"/>
+</map>

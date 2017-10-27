@@ -1,0 +1,13 @@
+<map id="Decider80211p::calculateNoiseRSSIMapping" name="Decider80211p::calculateNoiseRSSIMapping">
+<area shape="rect" id="node2" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="225,5,415,32"/>
+<area shape="rect" id="node5" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="482,260,641,287"/>
+<area shape="rect" id="node6" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="229,56,411,83"/>
+<area shape="rect" id="node7" href="$class_decider_to_phy_interface.html#a2c55926187883df5bc322c947d317534" title="Returns a Mapping which defines the thermal noise in the passed time frame (in mW). " alt="" coords="242,158,398,199"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="231,224,409,251"/>
+<area shape="rect" id="node9" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="231,275,409,301"/>
+<area shape="rect" id="node10" href="$class_mapping_utils.html#a0d8bf65254d099c87948c1c300986696" title="MappingUtils::add" alt="" coords="257,325,383,352"/>
+<area shape="rect" id="node12" href="$class_mapping_utils.html#a37d38fd0a9593e6f055ac8d90758965e" title="MappingUtils::subtract" alt="" coords="243,376,397,403"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="464,5,659,32"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="503,56,620,83"/>
+<area shape="rect" id="node11" href="$class_mapping_utils.html#a45c56f1ea72b2f8b278d1016ac6228df" title="MappingUtils::applyElement\lWiseOperator" alt="" coords="469,333,654,374"/>
+</map>

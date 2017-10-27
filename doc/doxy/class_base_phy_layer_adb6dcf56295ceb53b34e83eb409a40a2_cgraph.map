@@ -1,0 +1,17 @@
+<map id="BasePhyLayer::filterSignal" name="BasePhyLayer::filterSignal">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html#a3b8ac67592177f2bf7559e124e4395e9" title="Veins::AirFrame::getPoa" alt="" coords="255,5,420,32"/>
+<area shape="rect" id="node3" href="$class_access_module_wrap.html#aabe6dcb792c40ce4c77b2f194aadbe5f" title="AccessModuleWrap::get" alt="" coords="493,260,659,287"/>
+<area shape="rect" id="node5" href="$class_base_mobility.html#a43e40c6e56445ca9439d7d44a37b12c1" title="Returns the current position at the current simulation time. " alt="" coords="254,122,421,163"/>
+<area shape="rect" id="node6" href="$class_base_mobility.html#adab2cdb010f29156d1f0164d523c481e" title="BaseMobility::getCurrent\lOrientation" alt="" coords="254,187,421,229"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="248,253,427,280"/>
+<area shape="rect" id="node8" href="$class_signal.html#a392ecf1a624edfb90243e7227370a772" title="Returns the function representing the transmission power of the signal. " alt="" coords="238,304,437,331"/>
+<area shape="rect" id="node9" href="$class_const_mapping.html#acc1559cf5741bec3aa6422e94c5b9cce" title="Returns this Mappings domain as DimensionSet. " alt="" coords="230,355,445,381"/>
+<area shape="rect" id="node10" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="240,405,435,432"/>
+<area shape="rect" id="node11" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="501,532,651,559"/>
+<area shape="rect" id="node12" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="233,557,441,584"/>
+<area shape="rect" id="node14" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="246,659,429,685"/>
+<area shape="rect" id="node15" href="$class_signal.html#a0beeef0f27c33145a0fca521df1c5f5c" title="Adds a function representing an attenuation of the signal. " alt="" coords="261,608,414,635"/>
+<area shape="rect" id="node16" href="$class_veins_1_1_channel_access.html#a130bfd04f4e40b490929f99d96cc1aef" title="Returns the host&#39;s mobility module. " alt="" coords="260,57,415,98"/>
+<area shape="rect" id="node4" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="707,260,890,287"/>
+<area shape="rect" id="node13" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="517,608,635,635"/>
+</map>

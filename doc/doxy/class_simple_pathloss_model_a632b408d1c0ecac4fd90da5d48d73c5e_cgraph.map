@@ -1,0 +1,15 @@
+<map id="SimplePathlossModel::filterSignal" name="SimplePathlossModel::filterSignal">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="221,5,400,32"/>
+<area shape="rect" id="node3" href="$class_coord.html#aaf6119bf8bc9953d561729314de8ed5e" title="Returns the squared distance on a torus of this to Coord &#39;b&#39; (omits calling square root)..." alt="" coords="241,56,381,83"/>
+<area shape="rect" id="node4" href="$class_coord.html#a9245e5acb794d95128e191e6faef99d4" title="Returns distance^2 to Coord &#39;a&#39; (omits calling square root). " alt="" coords="259,107,363,133"/>
+<area shape="rect" id="node6" href="$class_base_world_utility.html#af5916bab614d550530fd397573a7a04e" title="Speed of light in meters per second. " alt="" coords="222,158,399,199"/>
+<area shape="rect" id="node7" href="$class_signal.html#a392ecf1a624edfb90243e7227370a772" title="Returns the function representing the transmission power of the signal. " alt="" coords="211,224,410,251"/>
+<area shape="rect" id="node8" href="$class_const_mapping.html#acc1559cf5741bec3aa6422e94c5b9cce" title="Returns this Mappings domain as DimensionSet. " alt="" coords="203,275,418,301"/>
+<area shape="rect" id="node9" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="213,325,408,352"/>
+<area shape="rect" id="node10" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="467,389,616,416"/>
+<area shape="rect" id="node11" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="207,427,415,453"/>
+<area shape="rect" id="node13" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="219,477,402,504"/>
+<area shape="rect" id="node14" href="$class_signal.html#a0beeef0f27c33145a0fca521df1c5f5c" title="Adds a function representing an attenuation of the signal. " alt="" coords="234,528,387,555"/>
+<area shape="rect" id="node5" href="$class_coord.html#a278c018d6de54a020c39b3b1afaec50e" title="Returns the square of the length of this Coords position vector. " alt="" coords="470,107,613,133"/>
+<area shape="rect" id="node12" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="483,452,600,479"/>
+</map>

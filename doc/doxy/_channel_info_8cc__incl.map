@@ -1,0 +1,15 @@
+<map id="ChannelInfo.cc" name="ChannelInfo.cc">
+<area shape="rect" id="node2" href="$_channel_info_8h.html" title="veins/base/phyLayer\l/ChannelInfo.h" alt="" coords="876,81,1018,122"/>
+<area shape="rect" id="node5" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="152,632,345,659"/>
+<area shape="rect" id="node7" href="$_air_frame__m_8h.html" title="veins/base/messages\l/AirFrame_m.h" alt="" coords="654,171,804,213"/>
+<area shape="rect" id="node6" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="138,715,360,741"/>
+<area shape="rect" id="node8" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="550,262,692,303"/>
+<area shape="rect" id="node22" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="184,269,340,296"/>
+<area shape="rect" id="node9" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="550,353,692,394"/>
+<area shape="rect" id="node10" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="604,534,746,575"/>
+<area shape="rect" id="node21" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="495,443,637,485"/>
+<area shape="rect" id="node18" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="1043,625,1185,666"/>
+<area shape="rect" id="node23" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="46,353,188,394"/>
+<area shape="rect" id="node24" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="53,451,216,477"/>
+<area shape="rect" id="node25" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="45,541,224,568"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="BaseWaveApplLayer::receiveSignal" name="BaseWaveApplLayer::receiveSignal">
+<area shape="rect" id="node2" href="$class_base_wave_appl_layer.html#a7e2f6b90747de344330137567d30fe65" title="this function is called every time the vehicle receives a position update signal " alt="" coords="205,5,357,46"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a5e06ec7f3059afb0d666b866ecbc4960" title="this function is called every time the vehicle parks or starts moving again " alt="" coords="205,70,357,111"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_mobility.html#ac730da06609e16bbf5ce9e8588c0c388" title="Veins::TraCIMobility\l::getParkingState" alt="" coords="433,11,575,53"/>
+<area shape="rect" id="node5" href="$class_find_module.html#a36e4632a6c8c7dbdc177639957a8e62a" title="Returns a pointer to the module with the type of this template. " alt="" coords="405,77,603,104"/>
+<area shape="rect" id="node7" href="$class_base_mobility.html#a43e40c6e56445ca9439d7d44a37b12c1" title="Returns the current position at the current simulation time. " alt="" coords="421,129,587,170"/>
+<area shape="rect" id="node6" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="651,77,834,104"/>
+</map>

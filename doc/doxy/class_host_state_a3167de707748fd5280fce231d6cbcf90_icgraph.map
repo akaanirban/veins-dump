@@ -1,0 +1,4 @@
+<map id="HostState::get" name="HostState::get">
+<area shape="rect" id="node2" href="$class_base_module.html#a44220aa650488eee8ad121f8bc599265" title="Called whenever the hosts state changes. " alt="" coords="161,5,359,32"/>
+<area shape="rect" id="node3" href="$class_base_module.html#a55e8099ecb09cd0347a29b32648a9455" title="BaseModule::receiveSignal" alt="" coords="409,5,589,32"/>
+</map>

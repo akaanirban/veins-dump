@@ -1,0 +1,10 @@
+<map id="BaseApplLayer" name="BaseApplLayer">
+<area shape="rect" id="node7" href="$class_base_wave_appl_layer.html" title="WAVE application layer base class. " alt="" coords="109,379,253,405"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_test_app.html" title="Veins::TraCITestApp" alt="" coords="278,379,423,405"/>
+<area shape="rect" id="node2" href="$class_base_layer.html" title="A very simple layer template. " alt="" coords="223,229,307,256"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_battery_access.html" title="Veins::BatteryAccess" alt="" coords="191,155,340,181"/>
+<area shape="rect" id="node4" href="$class_base_module.html" title="Base class for all simple modules of a host. " alt="" coords="218,80,312,107"/>
+<area shape="rect" id="node8" href="$class_my_veins_app.html" title="This is a stub for a typical Veins application layer. " alt="" coords="5,453,101,480"/>
+<area shape="rect" id="node9" href="$class_tra_c_i_demo11p.html" title="A tutorial demo for TraCI. " alt="" coords="126,453,236,480"/>
+<area shape="rect" id="node10" href="$class_tra_c_i_demo_r_s_u11p.html" title="Small RSU Demo using 11p. " alt="" coords="261,453,400,480"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="Veins::TraCICommandInterface::polygon" name="Veins::TraCICommandInterface::polygon">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_test_app.html#a634a6ed505d6ff32b4b035c14e6a4e4b" title="Veins::TraCITestApp\l::handlePositionUpdate" alt="" coords="281,87,439,129"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title="Veins::AnnotationManager\l::hide" alt="" coords="273,185,447,226"/>
+<area shape="rect" id="node14" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a5389f3fc889b1fe3fd126c33a7d9ae36" title="Veins::TraCIScenarioManager\l::init_traci" alt="" coords="261,282,459,323"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_test_app.html#ae89d394d302b67e4b645ebe8d56a3483" title="Veins::TraCITestApp\l::receiveSignal" alt="" coords="533,70,678,111"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title="Veins::AnnotationManager\l::erase" alt="" coords="518,135,693,177"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_annotation_manager.html#a00d8af6a3eb73ccacec8bb3083bf0fd8" title="Veins::AnnotationManager\l::hideAll" alt="" coords="518,201,693,242"/>
+<area shape="rect" id="node6" href="$class_veins_1_1_annotation_manager.html#a15b1bc8dc418c545c8ff4e2b1f14833b" title="Veins::AnnotationManager\l::handleSelfMsg" alt="" coords="763,5,938,46"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_annotation_manager.html#ae4e81c01b715f94d40b5e6cfdb81279a" title="Veins::AnnotationManager\l::eraseAll" alt="" coords="763,70,938,111"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_obstacle_control.html#a3c5fb281ac00c947afe86d5e4bf99759" title="Veins::ObstacleControl\l::erase" alt="" coords="772,135,929,177"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_annotation_manager.html#a030910f3c70bf5205be6f7865bbf3073" title="Veins::AnnotationManager\l::handleMessage" alt="" coords="998,5,1173,46"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_obstacle_control.html#a9c07fdcd59de3e83ff27779c262a58b8" title="Veins::ObstacleControl\l::finish" alt="" coords="1007,135,1164,177"/>
+<area shape="rect" id="node12" href="$class_veins_1_1_annotation_manager.html#a6b000dd9d5d40d81b5b3b9d4581cfa19" title="Veins::AnnotationManager\l::finish" alt="" coords="763,201,938,242"/>
+<area shape="rect" id="node13" href="$class_veins_1_1_annotation_manager.html#a8bf0a36cd6e242341fa5a5b39fefd898" title="Veins::AnnotationManager\l::handleParameterChange" alt="" coords="763,266,938,307"/>
+<area shape="rect" id="node15" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a86a0b91aab8823c087c33b99f3a06b1f" title="Veins::TraCIScenarioManager\l::handleSelfMsg" alt="" coords="507,282,704,323"/>
+<area shape="rect" id="node17" href="$class_veins_1_1_tra_c_i_scenario_manager_launchd.html#a4c5b4cac20e03a2e333fd3e49a6a7e0e" title="Veins::TraCIScenarioManager\lLaunchd::init_traci" alt="" coords="507,347,704,389"/>
+<area shape="rect" id="node16" href="$class_veins_1_1_tra_c_i_scenario_manager.html#a7ca227c28f036e04e42ef08d1639dbf1" title="Veins::TraCIScenarioManager\l::handleMessage" alt="" coords="752,331,949,373"/>
+</map>

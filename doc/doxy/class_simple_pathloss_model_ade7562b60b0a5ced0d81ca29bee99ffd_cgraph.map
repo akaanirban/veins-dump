@@ -1,0 +1,6 @@
+<map id="SimplePathlossModel::calcPathloss" name="SimplePathlossModel::calcPathloss">
+<area shape="rect" id="node2" href="$class_coord.html#aaf6119bf8bc9953d561729314de8ed5e" title="Returns the squared distance on a torus of this to Coord &#39;b&#39; (omits calling square root)..." alt="" coords="222,5,362,32"/>
+<area shape="rect" id="node3" href="$class_coord.html#a9245e5acb794d95128e191e6faef99d4" title="Returns distance^2 to Coord &#39;a&#39; (omits calling square root). " alt="" coords="240,56,344,83"/>
+<area shape="rect" id="node5" href="$class_base_world_utility.html#af5916bab614d550530fd397573a7a04e" title="Speed of light in meters per second. " alt="" coords="203,107,381,149"/>
+<area shape="rect" id="node4" href="$class_coord.html#a278c018d6de54a020c39b3b1afaec50e" title="Returns the square of the length of this Coords position vector. " alt="" coords="430,56,573,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SimpleConstMapping::createKeyEntries" name="SimpleConstMapping::createKeyEntries">
+<area shape="rect" id="node2" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="613,26,731,52"/>
+<area shape="rect" id="node3" href="$class_argument.html#a137a911de0281cbb519fe13727aa0813" title="Returns the value for the specified dimension. " alt="" coords="200,72,357,99"/>
+<area shape="rect" id="node6" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="200,123,357,150"/>
+<area shape="rect" id="node7" href="$class_simple_const_mapping.html#a3804bf19eee40fe09c626b7ca9e0885e" title="Utility method to fill add range of key entries in the time dimension to the key entry set..." alt="" coords="205,174,352,216"/>
+<area shape="rect" id="node4" href="$class_argument.html#ae4b61830a991f8911978c30a67dd2da6" title="Returns an iterator to the Argument value for the passed Dimension. " alt="" coords="432,26,539,52"/>
+<area shape="rect" id="node5" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="406,76,565,103"/>
+<area shape="rect" id="node8" href="$class_argument.html#a2ecb3b041b5b8721d6767531e4ac792a" title="Returns the time value of this argument. " alt="" coords="419,179,552,206"/>
+<area shape="rect" id="node9" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="419,230,552,256"/>
+</map>

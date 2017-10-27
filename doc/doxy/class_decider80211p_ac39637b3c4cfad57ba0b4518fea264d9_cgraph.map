@@ -1,0 +1,51 @@
+<map id="Decider80211p::processSignalEnd" name="Decider80211p::processSignalEnd">
+<area shape="rect" id="node2" href="$class_veins_1_1_air_frame.html#a50cfde43def85076f0ba2e9ad16d18a4" title="Veins::AirFrame::getSignal" alt="" coords="1104,1394,1283,1421"/>
+<area shape="rect" id="node3" href="$class_dimension_set.html#a42fe96761cfb57695e0d7802acc032b0" title="Shortcut to a DimensionSet which contains time and frequency. " alt="" coords="547,165,755,192"/>
+<area shape="rect" id="node6" href="$class_argument.html#a8087982f050bdc61d787b128ca9ac8f9" title="Changes the time value of this argument. " alt="" coords="584,690,717,717"/>
+<area shape="rect" id="node7" href="$class_argument.html#a27bd7000e865670a673039233424d2ab" title="Changes the value for the specified dimension. " alt="" coords="572,64,729,90"/>
+<area shape="rect" id="node5" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="851,241,1000,268"/>
+<area shape="rect" id="node8" href="$class_air_frame11p.html#ae9af854b9c8237077618f82a3db6be54" title="AirFrame11p::getUnderSensitivity" alt="" coords="279,990,497,1017"/>
+<area shape="rect" id="node9" href="$class_air_frame11p.html#a8d2568edd1c3308580ce581d64a14951" title="AirFrame11p::getWasTransmitting" alt="" coords="277,1041,499,1068"/>
+<area shape="rect" id="node10" href="$class_decider80211p_to_phy80211p_interface.html#a71c8cb40450b065178bd9715b9f890ca" title="Decider80211pToPhy80211p\lInterface::getRadioState" alt="" coords="293,1092,483,1134"/>
+<area shape="rect" id="node11" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="281,1158,495,1185"/>
+<area shape="rect" id="node41" href="$class_decider_result.html#aa0ff5bc718c64668cb1ce09c2c7dba80" title="A Function that returns a very basic result about the Signal. " alt="" coords="287,1209,489,1236"/>
+<area shape="rect" id="node42" href="$class_decider_to_phy_interface.html#a3c0676323e402449d0972890c6a14df3" title="Called to send an AirFrame with DeciderResult to the MACLayer. " alt="" coords="310,1260,466,1302"/>
+<area shape="rect" id="node43" href="$class_decider_to_phy_interface.html#a319e413b963f03ff218b0d0024fb66b9" title="Called by the Decider to send a control message to the MACLayer. " alt="" coords="568,1978,733,2019"/>
+<area shape="rect" id="node44" href="$class_decider80211p.html#aeba984a7f23ef26ce8b22b0bfef88947" title="Decider80211p::cca" alt="" coords="319,393,457,420"/>
+<area shape="rect" id="node46" href="$class_decider80211p.html#af06ba4862697730ee05b65f6bf90279b" title="Changes the &quot;isIdle&quot;&#45;status to the passed value. " alt="" coords="297,1978,479,2019"/>
+<area shape="rect" id="node4" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="1377,326,1495,353"/>
+<area shape="rect" id="node12" href="$class_decider80211p.html#aed94d240800692fe3a7c604a6d11e54e" title="Calculates a SNR&#45;Mapping for a Signal. " alt="" coords="566,1311,735,1352"/>
+<area shape="rect" id="node28" href="$class_base_decider.html#abac709d59f48d292f147919854c002e2" title="Calculates a SNR&#45;Mapping for a Signal. " alt="" coords="562,1394,739,1435"/>
+<area shape="rect" id="node13" href="$class_signal.html#a7c4710243cf87caf7dfc9f313e2619b2" title="Returns the point in time when the receiving of the Signal started at the receiver module..." alt="" coords="1108,1470,1279,1497"/>
+<area shape="rect" id="node14" href="$class_signal.html#a2875223239e124d85949e1116cc12ae9" title="Returns the point in time when the receiving of the Signal ended at the receiver module. " alt="" coords="1110,1194,1277,1221"/>
+<area shape="rect" id="node22" href="$class_signal.html#a513b1abac0b04549585257f7f5f8ebea" title="Calculates and returns the receiving power of this Signal. " alt="" coords="1104,1120,1283,1146"/>
+<area shape="rect" id="node29" href="$class_concat_const_mapping.html#a28448679df346f8baf0f889bc0ab522a" title="Returns the value of this Mapping at the position specified by the passed Argument. " alt="" coords="577,1512,725,1554"/>
+<area shape="rect" id="node31" href="$class_mapping_utils.html#aec04c2f94a70e276ad22fb63ee9969ea" title="Iterates over the passed mapping and returns value at the key entry with the smallest value..." alt="" coords="577,792,725,818"/>
+<area shape="rect" id="node37" href="$class_signal.html#adfd5ce93e172004046d7714eaefb36c7" title="Returns the function representing the bitrate of the signal. " alt="" coords="589,1108,712,1134"/>
+<area shape="rect" id="node38" href="$class_mapping.html#acdf62aed4b8a469e63c036e75567c2e3" title="Returns an ConstMappingIterator by use of the respective implementation of the &quot;createIterator()&quot;&#45;met..." alt="" coords="555,1158,746,1185"/>
+<area shape="rect" id="node36" href="$class_const_mapping_iterator.html#afdafa6870cd19b3d35674a7bc777585d" title="Iterates to the next position of the Mapping. " alt="" coords="852,883,999,924"/>
+<area shape="rect" id="node34" href="$class_const_mapping_iterator.html#ad4419c259e747867f003d07d62d4259f" title="Returns the value of the Mapping at the current position. " alt="" coords="852,818,999,859"/>
+<area shape="rect" id="node39" href="$class_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="564,1686,737,1713"/>
+<area shape="rect" id="node15" href="$class_base_decider.html#a8ca42b7d77c0a1510255ec2a451d06d0" title="Calculates a RSSI&#45;Mapping (or Noise&#45;Strength&#45;Mapping) for a Signal. " alt="" coords="806,1014,1045,1041"/>
+<area shape="rect" id="node26" href="$class_decider80211p.html#af3174316d16de21ba92ee86ec5cb50cb" title="Calculates a RSSI&#45;Mapping (or Noise&#45;Strength&#45;Mapping) for a Signal. " alt="" coords="841,948,1010,990"/>
+<area shape="rect" id="node27" href="$class_mapping_utils.html#ad5ccda215590380a9798e4dd51ede69c" title="MappingUtils::divide" alt="" coords="855,1521,995,1548"/>
+<area shape="rect" id="node20" href="$class_argument.html#a801c0e1f3ab952051b500bc7adc4bc13" title="Zero value of a Argument value. " alt="" coords="1357,1094,1515,1121"/>
+<area shape="rect" id="node16" href="$class_base_decider.html#a1eb9539d907f101c8d30798f6ca03337" title="Collects the AirFrame on the channel during the passed interval. " alt="" coords="1097,121,1290,148"/>
+<area shape="rect" id="node18" href="$class_mapping_utils.html#a31dacf496bf614375d0d09479767d248" title="Returns an appropriate changeable Mapping with the specified domain and the specified interpolation m..." alt="" coords="1098,633,1289,660"/>
+<area shape="rect" id="node21" href="$class_dimension_set.html#a4a8ef6b2bb33b57ef7fe2da1bf684be6" title="Shortcut to a DimensionSet which only contains time. " alt="" coords="1102,473,1285,500"/>
+<area shape="rect" id="node23" href="$class_mapping_utils.html#a0d8bf65254d099c87948c1c300986696" title="MappingUtils::add" alt="" coords="1130,952,1257,978"/>
+<area shape="rect" id="node25" href="$class_decider_to_phy_interface.html#a2c55926187883df5bc322c947d317534" title="Returns a Mapping which defines the thermal noise in the passed time frame (in mW). " alt="" coords="1115,1003,1271,1044"/>
+<area shape="rect" id="node17" href="$class_decider_to_phy_interface.html#aa7af5edbbc50269a93c10bd682aa79f6" title="Fills the passed AirFrameVector with all AirFrames that intersect with the time interval [from..." alt="" coords="1358,114,1514,155"/>
+<area shape="rect" id="node19" href="$class_dimension_set.html#a015cb6fa6c77b26b8c7b1e65827b8342" title="Returns true if the passed Dimension is inside this DimensionSet. " alt="" coords="1339,633,1533,660"/>
+<area shape="rect" id="node24" href="$class_mapping_utils.html#a45c56f1ea72b2f8b278d1016ac6228df" title="MappingUtils::applyElement\lWiseOperator" alt="" coords="1343,1342,1529,1383"/>
+<area shape="rect" id="node30" href="$class_const_mapping.html#afabbd15bb8f50e45901f99633d0a47c9" title="Returns the value of this Mapping at the position specified by the passed Argument. " alt="" coords="843,1673,1008,1700"/>
+<area shape="rect" id="node32" href="$class_const_mapping.html#a5ff3a15fe6d536fa7a26a3fe1ff1b274" title="Returns a pointer of a new Iterator which is able to iterate over this Mapping. " alt="" coords="833,752,1018,794"/>
+<area shape="rect" id="node33" href="$class_const_mapping_iterator.html#a4a6348a453418da95978e570fec046fc" title="Returns true if the current position of the iterator is in range of the function. ..." alt="" coords="852,622,999,663"/>
+<area shape="rect" id="node35" href="$class_const_mapping_iterator.html#ad4bac7233c154b7086c6124d2e21be49" title="Returns true if the iterator has a next value it can iterate to on a call to &quot;next()&quot;. " alt="" coords="852,687,999,728"/>
+<area shape="rect" id="node40" href="$class_nist_error_rate.html#a25b315284a666a5065540f8f1da1cbe5" title="NistErrorRate::getChunkSuccessRate" alt="" coords="803,1724,1048,1750"/>
+<area shape="rect" id="node45" href="$class_mapping_utils.html#afa2d78cdfa899918c90a508ddab0ea5f" title="The default value for findMax() functions if it does not find a maximum element. " alt="" coords="553,266,748,293"/>
+<area shape="rect" id="node47" href="$class_base_decider.html#add7242168c4bb521c6335f3de590e4b0" title="Checks if the changed channel state enables us to answer any ongoing ChannelSenseRequests. " alt="" coords="560,2043,741,2084"/>
+<area shape="rect" id="node48" href="$struct_base_decider_1_1_c_s_r_info.html#a080b7bc98ed8cbdb7c744609b1bedb58" title="BaseDecider::CSRInfo\l::getRequest" alt="" coords="847,2102,1003,2143"/>
+<area shape="rect" id="node49" href="$class_base_decider.html#aad89f97ba5dcfd556be7556f04a840b1" title="Returns point in time when the ChannelSenseRequest of the passed CSRInfo can be answered (e..." alt="" coords="826,2000,1025,2026"/>
+<area shape="rect" id="node50" href="$class_decider_to_phy_interface.html#a73660771f127a990489fb04da07ea39e" title="Returns the current simulation time. " alt="" coords="1115,2018,1271,2059"/>
+</map>

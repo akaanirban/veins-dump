@@ -1,0 +1,19 @@
+<map id="BaseDecider.cc" name="BaseDecider.cc">
+<area shape="rect" id="node2" href="$_base_decider_8h.html" title="veins/base/phyLayer\l/BaseDecider.h" alt="" coords="569,171,711,213"/>
+<area shape="rect" id="node14" href="$_air_frame__m_8h.html" title="veins/base/messages\l/AirFrame_m.h" alt="" coords="267,81,416,122"/>
+<area shape="rect" id="node3" href="$_mi_xi_m_defs_8h.html" title="veins/base/utils/MiXiMDefs.h" alt="" coords="459,541,652,568"/>
+<area shape="rect" id="node6" href="$_decider_8h.html" title="veins/base/phyLayer\l/Decider.h" alt="" coords="598,262,740,303"/>
+<area shape="rect" id="node5" href="$miximkerneldefs_8h.html" title="veins/base/utils/miximkerneldefs.h" alt="" coords="445,624,667,651"/>
+<area shape="rect" id="node7" href="$_decider_to_phy_interface_8h.html" title="veins/base/phyLayer\l/DeciderToPhyInterface.h" alt="" coords="897,353,1068,394"/>
+<area shape="rect" id="node10" href="$_channel_sense_request__m_8h.html" title="veins/base/messages\l/ChannelSenseRequest_m.h" alt="" coords="633,353,823,394"/>
+<area shape="rect" id="node11" href="$_channel_state_8h.html" title="veins/base/phyLayer\l/ChannelState.h" alt="" coords="583,443,725,485"/>
+<area shape="rect" id="node15" href="$_signal___8h.html" title="veins/base/phyLayer\l/Signal_.h" alt="" coords="373,171,515,213"/>
+<area shape="rect" id="node27" href="$_p_o_a_8h.html" title="veins/base/utils/POA.h" alt="" coords="161,179,316,205"/>
+<area shape="rect" id="node16" href="$_mapping_8h.html" title="veins/base/phyLayer\l/Mapping.h" alt="" coords="1151,262,1293,303"/>
+<area shape="rect" id="node17" href="$_mapping_base_8h.html" title="veins/base/phyLayer\l/MappingBase.h" alt="" coords="1241,443,1383,485"/>
+<area shape="rect" id="node26" href="$_mapping_utils_8h.html" title="veins/base/phyLayer\l/MappingUtils.h" alt="" coords="1151,353,1293,394"/>
+<area shape="rect" id="node23" href="$_interpolation_8h.html" title="veins/base/phyLayer\l/Interpolation.h" alt="" coords="1487,534,1629,575"/>
+<area shape="rect" id="node28" href="$_antenna_8h.html" title="veins/base/phyLayer\l/Antenna.h" alt="" coords="137,262,279,303"/>
+<area shape="rect" id="node29" href="$_coord_8h.html" title="veins/base/utils/Coord.h" alt="" coords="135,360,297,387"/>
+<area shape="rect" id="node30" href="$_f_w_math_8h.html" title="veins/base/utils/FWMath.h" alt="" coords="127,451,305,477"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="DimensionSet::timeFreqDomain" name="DimensionSet::timeFreqDomain">
+<area shape="rect" id="node2" href="$class_dimension.html#ab145a576de617e253b7648f0eff42cd3" title="Shortcut to the time Dimension, same as &#39;Dimension(&quot;time&quot;)&#39;, but spares the parsing of a string..." alt="" coords="277,5,395,32"/>
+<area shape="rect" id="node3" href="$class_dimension.html#a59d10f3f5d3271004712ec2fedcdf399" title="Shortcut to the frequency Dimension, same as &#39;Dimension(&quot;frequency&quot;)&#39;, but spares the parsing of a ..." alt="" coords="261,56,411,83"/>
+</map>

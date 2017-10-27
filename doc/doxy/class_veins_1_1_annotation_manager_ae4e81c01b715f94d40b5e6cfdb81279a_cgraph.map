@@ -1,0 +1,18 @@
+<map id="Veins::AnnotationManager::eraseAll" name="Veins::AnnotationManager::eraseAll">
+<area shape="rect" id="node2" href="$class_veins_1_1_annotation_manager.html#a990948888917eff8840f899714d4e754" title="Veins::AnnotationManager\l::erase" alt="" coords="230,169,405,210"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_annotation_manager.html#ae7cd5fba58d72f4351963b9a6c95e669" title="Veins::AnnotationManager\l::hide" alt="" coords="454,169,629,210"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_scenario_manager_access.html#af6404515b1b992848f352b03d325b10d" title="Veins::TraCIScenarioManager\lAccess::get" alt="" coords="695,5,892,46"/>
+<area shape="rect" id="node7" href="$class_veins_1_1_tra_c_i_scenario_manager.html#ab25b8a9284329844c1fb4f48124ddfa3" title="Veins::TraCIScenarioManager\l::isConnected" alt="" coords="695,70,892,111"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_scenario_manager.html#af9d96f6e40de409df2f1d04b617433d5" title="Veins::TraCIScenarioManager\l::getCommandInterface" alt="" coords="695,135,892,177"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_command_interface.html#ae16f3b06b09adeeb8f714ef321b6df75" title="Veins::TraCICommandInterface\l::polygon" alt="" coords="690,201,897,242"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_tra_c_i_command_interface.html#a6722786178a64686107cad4e98a6effd" title="Veins::TraCICommandInterface::poi" alt="" coords="677,267,909,293"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_command_interface_1_1_poi.html#a873371bba8a2e031dbb1a01fab8ed80c" title="Veins::TraCICommandInterface\l::Poi::remove" alt="" coords="690,318,897,359"/>
+<area shape="rect" id="node5" href="$class_find_module.html#a36e4632a6c8c7dbdc177639957a8e62a" title="Returns a pointer to the module with the type of this template. " alt="" coords="957,12,1155,39"/>
+<area shape="rect" id="node6" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="1206,12,1389,39"/>
+<area shape="rect" id="node12" href="$class_veins_1_1_tra_c_i_connection.html#ac0f5129ad1e50365588ec39112432c7d" title="sends a single command via TraCI, checks status response, returns additional responses ..." alt="" coords="975,318,1137,359"/>
+<area shape="rect" id="node13" href="$class_veins_1_1_tra_c_i_connection.html#aaf6acde79a0ba73113c46ea92bd567d2" title="sends a message via TraCI (after adding the header) " alt="" coords="1216,318,1379,359"/>
+<area shape="rect" id="node16" href="$namespace_veins.html#ab52db5bfe6d9095440c0b0ac309bb99d" title="returns byte&#45;buffer containing a TraCI command with optional parameters " alt="" coords="1203,384,1391,411"/>
+<area shape="rect" id="node17" href="$class_veins_1_1_tra_c_i_connection.html#a634ce6c27d5e98f7d96f65706f3460df" title="receives a message via TraCI (and strips the header) " alt="" coords="1216,253,1379,294"/>
+<area shape="rect" id="node14" href="$namespace_veins.html#a6eeefaf3bbdaff6c10cfcd01200016d3" title="Veins::socket" alt="" coords="1466,299,1569,325"/>
+<area shape="rect" id="node15" href="$class_veins_1_1_tra_c_i_buffer.html#ae0833eeb81079e14eed3f13d0ae5d2b3" title="Veins::TraCIBuffer::str" alt="" coords="1440,353,1595,380"/>
+</map>

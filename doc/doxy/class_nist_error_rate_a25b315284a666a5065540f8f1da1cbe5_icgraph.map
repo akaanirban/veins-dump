@@ -1,0 +1,5 @@
+<map id="NistErrorRate::getChunkSuccessRate" name="NistErrorRate::getChunkSuccessRate">
+<area shape="rect" id="node2" href="$class_decider80211p.html#a25ca0927f831000b88741dc0db84246c" title="computes if packet is ok or has errors " alt="" coords="299,5,472,32"/>
+<area shape="rect" id="node3" href="$class_decider80211p.html#a01349c12df6c01678d1e25553b754819" title="Checks a mapping against a specific threshold (element&#45;wise). " alt="" coords="520,5,733,32"/>
+<area shape="rect" id="node4" href="$class_decider80211p.html#ac39637b3c4cfad57ba0b4518fea264d9" title="Processes a received AirFrame. " alt="" coords="782,5,1005,32"/>
+</map>

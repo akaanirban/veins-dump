@@ -1,0 +1,12 @@
+<map id="Veins::TraCIMobility::handleSelfMsg" name="Veins::TraCIMobility::handleSelfMsg">
+<area shape="rect" id="node2" href="$class_veins_1_1_tra_c_i_mobility.html#a690ad24a231dff3f3d929e3738db9b69" title="Veins::TraCIMobility\l::getVehicleCommandInterface" alt="" coords="197,101,400,142"/>
+<area shape="rect" id="node10" href="$class_veins_1_1_tra_c_i_command_interface_1_1_vehicle.html#a3c2a71fd23b864c788a04bc8cb5de34e" title="Veins::TraCICommandInterface\l::Vehicle::setSpeed" alt="" coords="195,166,402,207"/>
+<area shape="rect" id="node3" href="$class_veins_1_1_tra_c_i_mobility.html#a180ae1e009f8c81f66a167e21b7b5b89" title="Veins::TraCIMobility\l::getCommandInterface" alt="" coords="451,39,610,81"/>
+<area shape="rect" id="node9" href="$class_veins_1_1_tra_c_i_mobility.html#a5d901e593ed0fcb4ee5214564f81ed95" title="Veins::TraCIMobility\l::getExternalId" alt="" coords="460,105,601,146"/>
+<area shape="rect" id="node4" href="$class_veins_1_1_tra_c_i_mobility.html#a9112501e8dffb3ef22fc5c571a016ed1" title="Veins::TraCIMobility\l::getManager" alt="" coords="687,6,828,47"/>
+<area shape="rect" id="node8" href="$class_veins_1_1_tra_c_i_scenario_manager.html#af9d96f6e40de409df2f1d04b617433d5" title="Veins::TraCIScenarioManager\l::getCommandInterface" alt="" coords="659,71,856,113"/>
+<area shape="rect" id="node5" href="$class_veins_1_1_tra_c_i_scenario_manager_access.html#af6404515b1b992848f352b03d325b10d" title="Veins::TraCIScenarioManager\lAccess::get" alt="" coords="904,6,1101,47"/>
+<area shape="rect" id="node6" href="$class_find_module.html#a36e4632a6c8c7dbdc177639957a8e62a" title="Returns a pointer to the module with the type of this template. " alt="" coords="1149,13,1347,40"/>
+<area shape="rect" id="node7" href="$class_find_module.html#a661c335281d62d8df4affc46cc4fff9f" title="Returns a pointer to a sub module of the passed module with the type of this template. " alt="" coords="1395,13,1578,40"/>
+<area shape="rect" id="node11" href="$class_veins_1_1_tra_c_i_buffer.html#a0065f3b4bf17cac8e10dc94b551eb9f8" title="Veins::TraCIBuffer::eof" alt="" coords="452,173,609,200"/>
+</map>

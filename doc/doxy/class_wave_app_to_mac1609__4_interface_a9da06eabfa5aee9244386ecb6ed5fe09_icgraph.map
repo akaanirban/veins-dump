@@ -1,0 +1,7 @@
+<map id="WaveAppToMac1609_4Interface::isCurrentChannelCCH" name="WaveAppToMac1609_4Interface::isCurrentChannelCCH">
+<area shape="rect" id="node2" href="$class_base_wave_appl_layer.html#a03acf489385d61e4452a8fe095e93ac3" title="compute a point in time that is guaranteed to be in the correct channel interval plus a random offset..." alt="" coords="267,57,498,98"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#aa6a5eb1c331615fa7d87bcec1d816f8c" title="Initialization of the module and some variables. " alt="" coords="547,23,699,65"/>
+<area shape="rect" id="node6" href="$class_base_wave_appl_layer.html#a47968501dcddf35c4a4a030945eeac2e" title="This will start the periodic advertising of the new service on the CCH. " alt="" coords="547,89,699,130"/>
+<area shape="rect" id="node4" href="$class_my_veins_app.html#a24d305fc2a809f2fa325343ee74cc185" title="Initialization of the module and some variables. " alt="" coords="755,5,906,32"/>
+<area shape="rect" id="node5" href="$class_tra_c_i_demo11p.html#a0f070d06bf6eafef5bf85063f963a13d" title="Initialization of the module and some variables. " alt="" coords="747,56,914,83"/>
+</map>

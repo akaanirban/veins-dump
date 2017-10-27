@@ -1,0 +1,6 @@
+<map id="BaseWaveApplLayer::startService" name="BaseWaveApplLayer::startService">
+<area shape="rect" id="node2" href="$class_wave_app_to_mac1609__4_interface.html#abda213fbe366fbb7ff579e5fe2e7ef40" title="WaveAppToMac1609_4Interface\l::changeServiceChannel" alt="" coords="215,5,427,46"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a03acf489385d61e4452a8fe095e93ac3" title="compute a point in time that is guaranteed to be in the correct channel interval plus a random offset..." alt="" coords="206,70,437,111"/>
+<area shape="rect" id="node4" href="$class_wave_app_to_mac1609__4_interface.html#acea240b915e9aa2aba5ccaf89c469c39" title="WaveAppToMac1609_4Interface\l::getSwitchingInterval" alt="" coords="486,37,698,78"/>
+<area shape="rect" id="node5" href="$class_wave_app_to_mac1609__4_interface.html#a9da06eabfa5aee9244386ecb6ed5fe09" title="WaveAppToMac1609_4Interface\l::isCurrentChannelCCH" alt="" coords="486,102,698,143"/>
+</map>

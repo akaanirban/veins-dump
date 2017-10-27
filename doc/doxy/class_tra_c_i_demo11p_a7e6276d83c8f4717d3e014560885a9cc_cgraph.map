@@ -1,0 +1,17 @@
+<map id="TraCIDemo11p::handleSelfMsg" name="TraCIDemo11p::handleSelfMsg">
+<area shape="rect" id="node2" href="$class_base_wave_appl_layer.html#a830e58e379655c6d24319c16f8db5e3d" title="handle self messages " alt="" coords="259,366,411,407"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a5a614f6db1fc5697214d7bb127112fd9" title="sets all the necessary fields in the WSM, BSM, or WSA. " alt="" coords="459,246,611,287"/>
+<area shape="rect" id="node12" href="$class_base_wave_appl_layer.html#a5d3b59aaaac90a48bc022d3ae5700375" title="overloaded for error handling and stats recording purposes " alt="" coords="459,486,611,527"/>
+<area shape="rect" id="node4" href="$class_wave_short_message.html#a980ce99a99ced19d20878103bb5a671e" title="WaveShortMessage::setWsm\lVersion" alt="" coords="676,5,873,46"/>
+<area shape="rect" id="node5" href="$class_wave_short_message.html#a1ffa4fdd52b6acc82d191379e2491d22" title="WaveShortMessage::setTimestamp" alt="" coords="659,71,890,97"/>
+<area shape="rect" id="node6" href="$class_wave_short_message.html#ac5318ca78711740c66b88bc156f7c52b" title="WaveShortMessage::setSender\lAddress" alt="" coords="671,122,878,163"/>
+<area shape="rect" id="node7" href="$class_wave_short_message.html#a818105a3cb5d5bc51a1257826be98b13" title="WaveShortMessage::setRecipient\lAddress" alt="" coords="664,187,885,229"/>
+<area shape="rect" id="node8" href="$class_wave_short_message.html#a89a1fd291250ae9c6e16b104d3a76e8e" title="WaveShortMessage::setSerial" alt="" coords="675,253,874,280"/>
+<area shape="rect" id="node9" href="$class_wave_short_message.html#a138e7425f6286d388541280dceab0352" title="WaveShortMessage::setWsmData" alt="" coords="662,304,887,331"/>
+<area shape="rect" id="node10" href="$class_wave_short_message.html#a71a13b35201620ddd75465fff3066241" title="WaveShortMessage::setUser\lPriority" alt="" coords="677,355,872,397"/>
+<area shape="rect" id="node11" href="$class_wave_short_message.html#a33ef604b6a5878e11a3bc4c2477e242e" title="WaveShortMessage::setChannel\lNumber" alt="" coords="667,421,882,462"/>
+<area shape="rect" id="node13" href="$class_base_wave_appl_layer.html#a2e45c99ead1b73d7fdbe3b2a21aaec1b" title="helper function for error handling and stats recording purposes " alt="" coords="697,486,852,527"/>
+<area shape="rect" id="node15" href="$class_base_layer.html#a1873d6e3fc6d92cf8482b39f1c5ac6c8" title="Sends a message to the lower layer. " alt="" coords="697,552,852,579"/>
+<area shape="rect" id="node14" href="$class_wave_short_message.html#ab5790460483faa5713077d73007b1033" title="WaveShortMessage::getPsid" alt="" coords="939,493,1131,520"/>
+<area shape="rect" id="node16" href="$class_base_layer.html#a33f4f320f4b6c4ec48651847338ff47f" title="BaseLayer::recordPacket" alt="" coords="950,552,1119,579"/>
+</map>

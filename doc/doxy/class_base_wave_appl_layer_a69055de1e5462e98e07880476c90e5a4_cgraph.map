@@ -1,0 +1,7 @@
+<map id="BaseWaveApplLayer::handleLowerMsg" name="BaseWaveApplLayer::handleLowerMsg">
+<area shape="rect" id="node2" href="$class_wave_short_message.html#ab5790460483faa5713077d73007b1033" title="WaveShortMessage::getPsid" alt="" coords="205,5,397,32"/>
+<area shape="rect" id="node3" href="$class_base_wave_appl_layer.html#a0206b8e7070ad34765c7d46a52f08a3b" title="this function is called when a custom WSM is received, taylor code " alt="" coords="225,57,377,98"/>
+<area shape="rect" id="node4" href="$class_base_wave_appl_layer.html#a82cf198db3e1871608b9cb6054bc2164" title="this function is called upon receiving a BasicSafetyMessage, also referred to as a beacon ..." alt="" coords="225,122,377,163"/>
+<area shape="rect" id="node5" href="$class_base_wave_appl_layer.html#a69902d1b0a727061847d7358a381a120" title="this function is called upon receiving a WaveServiceAdvertisement " alt="" coords="225,187,377,229"/>
+<area shape="rect" id="node6" href="$class_base_wave_appl_layer.html#a0e43ec0b473e8641e164dd5c57f41470" title="this function is called upon receiving a WaveShortMessage " alt="" coords="225,253,377,294"/>
+</map>
